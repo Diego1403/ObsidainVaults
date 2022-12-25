@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "4fc8cf78cc436d64",
+        "id": "3e23b6d94c9302ae",
         "type": "tabs",
         "children": [
           {
-            "id": "c14ef948f5268d61",
+            "id": "a1d7302e0cabd123",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/1.-Contenedores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d743936d67008a45",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20221225074734.png"
+              }
+            }
+          },
+          {
+            "id": "63f519df13fcead5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20221225075413.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,7 +59,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -65,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "ad8976600ba68b19",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/Pasted image 20221225075413.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/Pasted image 20221225075413.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/Pasted image 20221225075413.png"
+              }
             }
           }
         ]
@@ -138,8 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c14ef948f5268d61",
+  "active": "fc09e5d4f9459c80",
   "lastOpenFiles": [
-    "Teoria/Matrices y conjuntos de bits/Untitled.canvas"
+    "Errores frecuentes.md",
+    "Images/Pasted image 20221225074734.png",
+    "Teoria/2.- Gestion de memoria y definiciones.md",
+    "¿ Como Saber que estructura de dato  usar ?.md",
+    "Teoria/1.-Contenedores.md",
+    "Teoria/Mallas regulares/14.- Mallas regulares.md",
+    "Untitled.canvas",
+    "Definiciones.md",
+    "Ejercicios a resolver/Respuestas.md",
+    "Images/Pasted image 20221224094623.png"
   ]
 }
