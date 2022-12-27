@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"0992fae77f6a2634","x":-224,"y":-450,"width":250,"height":60,"type":"text","text":"lola10,juan ,josephe\n"},
+		{"id":"e85053ed40faa686","x":-181,"y":-187,"width":250,"height":60,"type":"text","text":"lola10 ,josephe,terezi\n"},
+		{"id":"b2c8cb6ae717a980","x":26,"y":-43,"width":250,"height":60,"type":"text","text":"josephe,kiko20,sancholo"},
+		{"id":"638ad6bc1d34c9ed","x":-306,"y":269,"width":250,"height":60,"type":"text","text":"dani02,lola,lula"},
+		{"id":"ce5a2c3e2ce01382","x":0,"y":269,"width":250,"height":60,"type":"text","text":"juan,josephe,kiko20"},
+		{"id":"2a603743c7e3c5a7","x":276,"y":269,"width":250,"height":60,"type":"text","text":"sancholo,terrezi"},
+		{"id":"6b74a0df34034306","x":0,"y":125,"width":250,"height":60,"type":"text","text":"dani01,juan,sancholo"},
+		{"id":"d8281a14bc522cb8","x":-280,"y":621,"width":250,"height":60,"type":"text","text":"albaluna ,dani02,lola"},
+		{"id":"6e266b67e6e17d1b","x":26,"y":621,"width":250,"height":60,"type":"text","text":"lula,juan,josephe"},
+		{"id":"4c72c2d4ed637d15","x":302,"y":621,"width":250,"height":60,"type":"text","text":"kiko20,sancholo,terrezi"},
+		{"id":"81f336bd545e0f01","x":26,"y":477,"width":250,"height":60,"type":"text","text":"albaluna,lula,kik020"},
+		{"id":"36e1bb774fb4c1e2","x":-306,"y":956,"width":250,"height":60,"type":"text","text":"albaluna ,dani02,lola"},
+		{"id":"58c7497e4c1b60c2","x":0,"y":956,"width":250,"height":60,"type":"text","text":"lula,juan,josephe"},
+		{"id":"dd1e80a3b9d3f54f","x":276,"y":956,"width":250,"height":60,"type":"text","text":"sancholo,terrezi"},
+		{"id":"88b9cfc7872f4b7c","x":0,"y":812,"width":250,"height":60,"type":"text","text":"albaluna,lula,sancholo"},
+		{"id":"6cc61200a9894b06","x":-306,"y":1310,"width":250,"height":60,"type":"text","text":"albaluna ,lola"},
+		{"id":"4aa348dfb85804fc","x":0,"y":1310,"width":250,"height":60,"type":"text","text":"lula,juansinganas,juanfortnight"},
+		{"id":"5ccd0b676ea4078d","x":276,"y":1310,"width":250,"height":60,"type":"text","text":"josephe,sancholo,terrezi"},
+		{"id":"c669633ea8ae0a57","x":0,"y":1166,"width":250,"height":60,"type":"text","text":"albaluna,lula,josephe"},
+		{"id":"e1ded4bce2b6a7e5","x":-363,"y":-43,"width":250,"height":60,"type":"text","text":"lola,lula,juan"}
+	],
+	"edges":[
+		{"id":"1a511bb2b82c3a2e","fromNode":"e85053ed40faa686","fromSide":"bottom","toNode":"e1ded4bce2b6a7e5","toSide":"top"},
+		{"id":"ea34112d2cf77890","fromNode":"e85053ed40faa686","fromSide":"bottom","toNode":"b2c8cb6ae717a980","toSide":"top"},
+		{"id":"ae43f0568a581a51","fromNode":"638ad6bc1d34c9ed","fromSide":"top","toNode":"6b74a0df34034306","toSide":"bottom"},
+		{"id":"e8e5230c27ed5a05","fromNode":"ce5a2c3e2ce01382","fromSide":"top","toNode":"6b74a0df34034306","toSide":"bottom"},
+		{"id":"5a6e5fce5fa38e64","fromNode":"2a603743c7e3c5a7","fromSide":"top","toNode":"6b74a0df34034306","toSide":"bottom"},
+		{"id":"c822a0fb675668aa","fromNode":"d8281a14bc522cb8","fromSide":"top","toNode":"81f336bd545e0f01","toSide":"bottom"},
+		{"id":"7ba25ca2e26c456c","fromNode":"6e266b67e6e17d1b","fromSide":"top","toNode":"81f336bd545e0f01","toSide":"bottom"},
+		{"id":"75719dbec45d2be9","fromNode":"4c72c2d4ed637d15","fromSide":"top","toNode":"81f336bd545e0f01","toSide":"bottom"},
+		{"id":"6a849481e4ecdad1","fromNode":"36e1bb774fb4c1e2","fromSide":"top","toNode":"88b9cfc7872f4b7c","toSide":"bottom"},
+		{"id":"58cb0f431df61334","fromNode":"58c7497e4c1b60c2","fromSide":"top","toNode":"88b9cfc7872f4b7c","toSide":"bottom"},
+		{"id":"556187b6a155874c","fromNode":"dd1e80a3b9d3f54f","fromSide":"top","toNode":"88b9cfc7872f4b7c","toSide":"bottom"},
+		{"id":"d9ea5c8633850d3f","fromNode":"6cc61200a9894b06","fromSide":"top","toNode":"c669633ea8ae0a57","toSide":"bottom"},
+		{"id":"095b421ebe7e94e5","fromNode":"4aa348dfb85804fc","fromSide":"top","toNode":"c669633ea8ae0a57","toSide":"bottom"},
+		{"id":"670b097faa0d29d8","fromNode":"5ccd0b676ea4078d","fromSide":"top","toNode":"c669633ea8ae0a57","toSide":"bottom"}
+	]
+}

@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3e23b6d94c9302ae",
+        "id": "f556580082327369",
         "type": "tabs",
         "children": [
           {
-            "id": "a1d7302e0cabd123",
+            "id": "9b78a15a0f1ca2b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/1.-Contenedores.md",
+                "file": "Teoria/Listas/Listas enlazadas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d743936d67008a45",
+            "id": "379d422fb6d90361",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20221225074734.png"
-              }
-            }
-          },
-          {
-            "id": "63f519df13fcead5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20221225075413.png"
+                "file": "Repaso UML.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20221225075413.png",
+                "file": "Repaso UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20221225075413.png",
+                "file": "Repaso UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20221225075413.png"
+                "file": "Repaso UML.md"
               }
             }
           }
@@ -167,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc09e5d4f9459c80",
+  "active": "379d422fb6d90361",
   "lastOpenFiles": [
-    "Errores frecuentes.md",
-    "Images/Pasted image 20221225074734.png",
-    "Teoria/2.- Gestion de memoria y definiciones.md",
-    "¿ Como Saber que estructura de dato  usar ?.md",
-    "Teoria/1.-Contenedores.md",
-    "Teoria/Mallas regulares/14.- Mallas regulares.md",
-    "Untitled.canvas",
-    "Definiciones.md",
+    "Teoria/Listas/Listas enlazadas.md",
+    "Teoria/Listas/Listas circulares.md",
     "Ejercicios a resolver/Respuestas.md",
-    "Images/Pasted image 20221224094623.png"
+    "Ejercicios a resolver/enero2020-eje2.canvas",
+    "Ejercicios a resolver/Preguntas.md",
+    "Images/Untitled.canvas",
+    "2022-12-26.md",
+    "Preguntas tipo test/Respuestas V o F.md",
+    "Preguntas tipo test/Preguntas V o F.md",
+    "Teoria/Memoria/2.- Gestion de memoria y definiciones.md"
   ]
 }

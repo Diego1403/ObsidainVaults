@@ -26,8 +26,7 @@ Sept 2012
 
 Enero 2014 
 ![[Pasted image 20221224094738.png]]
-Junio 2014 
-![[Pasted image 20221224095921.png]]
+
 Enero 2015 
 ![[Pasted image 20221224094701.png]]
 Octubre 2015 
@@ -36,18 +35,17 @@ Enero 2016
 ![[Pasted image 20221224100420.png]]
 ![[Pasted image 20221224100442.png]]
 Enero 2017 
-![[Pasted image 20221224100010.png]]
+![[Pasted image 20221225095724.png]]
 Junio 2017 
 ![[Pasted image 20221224100146.png]]
 Enero 2018 
 ![[Pasted image 20221224094623.png]]
-Junio 2018 
-![[Pasted image 20221224100247.png]]
 
 Enero 2019  
 ![[Pasted image 20221224100101.png]]
 Enero 2021
 ![[Pasted image 20221224100610.png]]
+
 Julio 2022
 ![[Pasted image 20221224094958.png]]
 
