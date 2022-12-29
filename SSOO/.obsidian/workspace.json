@@ -37,14 +37,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Proceso.md",
+                "file": "Teoria/2.-Procesos/Gestion de Procesos/Estados de un Proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa9e5a80990871a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Objetivos y criterios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b145b13b57e87264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5ef567891cbae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a61bb631174673b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd55d16ed0b54360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/Largo plazo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e977c8d21425e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Criterios sobre planificaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a14cef0687d58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aeb14bd325fba1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos/Planificador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e45d2956b62f2576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conceptos/Despachador.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -110,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conceptos/Proceso.md",
+                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conceptos/Proceso.md",
+                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conceptos/Proceso.md"
+                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md"
               }
             }
           },
@@ -167,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +288,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60b882d90e3c86aa",
+  "active": "36a14cef0687d58d",
   "lastOpenFiles": [
-    "Conceptos/proceso.md",
-    "Conceptos/Proceso.md",
-    "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
-    "Conceptos/pseudoparalelismo.md",
+    "Teoria/2.-Procesos/Gestion de Procesos/Bloque de control de proceso.md",
     "Teoria/2.-Procesos/Gestion de Procesos/Imagen de un proceso.md",
-    "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Modos de ejecucion.md",
-    "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambio de Contexto.md",
     "Teoria/2.-Procesos/Gestion de Procesos/Estados de un Proceso.md",
-    "Control sobre procesos.md",
-    "Teoria/1.-Introduccion/Conceptos Generales/Funciones de un SO.md"
+    "Teoria/2.-Procesos/Planificacion de Procesos/Algoritmos de planificaciones.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Criterios sobre planificaciones.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/Largo plazo.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A medio plazo.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Objetivos y criterios.md"
   ]
 }
