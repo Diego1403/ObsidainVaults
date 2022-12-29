@@ -1,0 +1,1 @@
+Funciona como un sistema transparente o mas facil de comprender y programar que el sistema subyacente 

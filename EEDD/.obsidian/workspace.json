@@ -4,35 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "f556580082327369",
+        "id": "17b9f6c293eb99c3",
         "type": "tabs",
         "children": [
           {
-            "id": "9b78a15a0f1ca2b2",
+            "id": "f62dbf36547fdafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/Listas/Listas enlazadas.md",
+                "file": "Ejercicios a resolver/Respuestas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "379d422fb6d90361",
+            "id": "d33e7252c5f1b1cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso UML.md",
+                "file": "Ejercicios a resolver/Preguntas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f941e073b34b2c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios a resolver/Julio -2022 ejercio 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "597760ff43ba9e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a026abddb29d8a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios a resolver/Preguntas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "ad8976600ba68b19",
@@ -98,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repaso UML.md",
+                "file": "Ejercicios a resolver/Respuestas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repaso UML.md",
+                "file": "Ejercicios a resolver/Respuestas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repaso UML.md"
+                "file": "Ejercicios a resolver/Respuestas.md"
               }
             }
           }
@@ -159,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379d422fb6d90361",
+  "active": "f62dbf36547fdafb",
   "lastOpenFiles": [
-    "Teoria/Listas/Listas enlazadas.md",
-    "Teoria/Listas/Listas circulares.md",
-    "Ejercicios a resolver/Respuestas.md",
-    "Ejercicios a resolver/enero2020-eje2.canvas",
     "Ejercicios a resolver/Preguntas.md",
-    "Images/Untitled.canvas",
+    "Ejercicios a resolver/Julio -2022 ejercio 2.md",
+    "Ejercicios a resolver/Respuestas.md",
+    "Images/Pasted image 20221224100146.png",
+    "Repaso UML.md",
+    "Definiciones.md",
+    "Errores frecuentes.md",
+    "Operadores.md",
     "2022-12-26.md",
-    "Preguntas tipo test/Respuestas V o F.md",
-    "Preguntas tipo test/Preguntas V o F.md",
-    "Teoria/Memoria/2.- Gestion de memoria y definiciones.md"
+    "Teoria/Listas/Listas enlazadas.md"
   ]
 }

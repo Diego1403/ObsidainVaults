@@ -1,0 +1,1 @@
+Es un conjunto de programas que manejan directamente los recursos hardware de un ordenador

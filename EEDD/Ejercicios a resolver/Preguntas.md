@@ -1,6 +1,6 @@
 1.- implenentar la operacion push del siguiente codigo donde el menor sea el mas prioritario
 
-``` C++
+```C++
 template 
 class Heap{
 T *arr ;// el contenedor

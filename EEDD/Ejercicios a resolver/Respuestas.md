@@ -19,8 +19,63 @@ while(padre>=0 && arr[actual] < arr[padre]) //cambias el signo mayor a menor si 
 ````
 
 Junio 2012
-
+```c++
+bool DispCerradaEnt::existe(){
+	bool existe = false;
+	int intento = 0;
+	
+	do {
+			if (tabla[hash(clave, intento)].estado != Estado::vacio ) //si es borrado o disponible seguimos buscando
+			 {
+				if (tabla[hash(clave, intento)].dato == dato) {
+					return true;
+				} else intento++;
+			} else return false;
+	} while (!(existe));
+	return false ;
+}
+```
 Sept 2012
+1.-
+```` c++
+
+Matriz<T> &Matriz<T>::operator+(const Matriz<T> a) {
+	if(n==a.n && m == a.m){
+		for(int i = 0; i<n ;i++){
+			for(int j = 0 ; j<m ; j++){
+				mat[i][j] = mat[i][j] + a.mat[i][j];
+			}
+		}
+	}
+	return *this;
+}
+
+
+
+`````
+	
+2.-
+````c++
+private:
+void Abb::preorden (Nodo *p, int nivel){ 
+	if (p)
+	{ 
+	cout << "Procesando nodo "<< p->dato ;
+	cout << "en el nivel " << nivel << endl; 
+	preorden (p->izq, nivel+1); 
+	preorden (p->der, nivel+1); 
+	} 
+
+}
+
+public:
+void Abb::recorrerArbol(){
+	preorden(raiz,0);
+}
+
+
+````
+
 
 Enero 2014
 1.- 
@@ -105,8 +160,38 @@ b)
 
 Octubre 2015
 a)
+```c++
+ListaEnlazada<T>::insertarFinal(VDinamico<T>& v){
+	Nodo<T> *nuevo = new Nodo();
+	if(v.size != 0){
+		for(auto vi : v){
+		nuevo = new Nodo(vi);
+		cola->sig = nuevo;
+		cola=nuevo;
+	}
+	}
+
+}
+
+```
 
 b)
+``` c++
+	void MultiABB::insertar(T &dato){
+		auto ite = raiz;
+		while(ite!=nullptr){
+			if(ite.datos.cabecera.dato == dato ){
+				ite.datos.insertarFinal(dato); //nos lo do el enunciado
+			}
+			if(ite.datos.cabecera.dato < dato ){
+				ite=ite->izq;
+			}else{
+				ite=ite->der;
+			}
+		}
+	}
+
+```
 
 Enero 2016 
 a)
@@ -252,8 +337,77 @@ if(!it.fin()) // si el iterador es distinto a fin
 
 ````
 b)
+```c++
+	
+	bool ABB::insertarPriv(T &dato , Nodo<T> &*p , int solos){
+		if(solos>3){
+			return true; //devolvemos true solo cuando pasa de 3 nodos hijos solos
+		}
+
+		if(!p){
+		 p = new Nodo<T> (dato);
+		 return false;
+		}else {
+			if(p->dato == dato){
+			 return false;
+			}
+			else if(dato < p->dato){
+				if(p->der){
+					solos = 0;
+				}else {
+					solos ++;
+				}
+				return insertaDato(dato,p->izq,solos);
+			} else {
+				if(p->izq){
+					solos = 0;
+				}else {
+					solos ++;
+				}
+				return insertaDato(dato,p->der,solos);
+			}
+		}
+	}
+	
+	
+	
+	
+	void ABB::insertar(const T &dato){
+		insertarPriv(dato,raiz,0)
+	}
+```
 Junio 2017 
 a)
+```c++
+class Nodo{
+	Nodo<T> *izq , *der , *raiz;
+	T dato;
+	Nodo(T aDato , Nodo *araiz){
+		dato=aDato;
+		raiz=araiz; 
+	}
+}
+
+ABB<T>::insertarPriv(Nodo<T> p , T dato  ){
+	if(!p){
+		p=new Nodo(dato,raiz);
+	}else {
+		if(dato>p->dato){
+			insertarPriv(p->der,dato);
+		}
+		if(dato<p->dato){
+			insertarPriv(p->izq,dato);
+		}	
+	}
+}
+
+ABB<T>::insertar(const T& dato){
+	insertarPriv(raiz,dato)
+	
+}
+
+```
+
 b)
 
 Enero 2018 
@@ -524,3 +678,22 @@ ListaEnlazada(VEstatico<T> & ve){
 
 ````
 b) 
+```` c++
+ABB::reverse(){
+    ABB<T> AlReves;//definimos el vector de salida
+    stack <Nodo<T> *> nodosPorProcesar; //creamos un stack para poder poner los nodos que aun tenemos que procesar 
+    Nodo<T> *nodo=raiz;//creamos el nodo que inicialmente estara apuntando a la raiz
+    while(nodo != nullptr  || !nodosPorProcesar.empty() ){ 
+        while(nodo!= nullptr){
+            nodosPorProcesar.push(nodo);
+            nodo=nodo->izq; //primero de la izquierda 
+        }
+        nodo = nodosPorProcesar.top(); //
+        nodosPorProcesar.pop();
+        AlReves.push_back(nodo->dato);
+        nodo = nodo->der;
+    }
+
+    this = AlReves;
+}
+```

@@ -1,0 +1,1 @@
+Es que tecnicamente con un unico procesador no se pueden ejecutar dos procesos a la vez. Entonces lo que hace  el CPU es que se va cambiando frecuentemente entre varios

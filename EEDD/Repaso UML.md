@@ -14,3 +14,5 @@
 - Indica que una clase es PARTE de otra clase , que la destrucion del padre lleva a la destruccion del hijo 
 - NO se comparten componentes
 - de 0 .. 1 o 1
+
+
