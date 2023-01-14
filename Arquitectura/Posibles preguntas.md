@@ -1,0 +1,1 @@
+Procesador superescalar es un procesador que puede procesar más de una instrucción en cada una de sus etapas

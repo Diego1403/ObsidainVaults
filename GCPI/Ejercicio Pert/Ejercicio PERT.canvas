@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"ce329d3252b00dfa","x":-450,"y":67,"width":143,"height":182,"type":"text","text":"im= 0 \nfM= 0"},
+		{"id":"67fd24c411735be5","x":-218,"y":67,"width":143,"height":182,"type":"text","text":"im= 1 \nfM= 1"},
+		{"id":"b8bb70c618a7b1b0","x":12,"y":219,"width":143,"height":182,"type":"text","text":"im= 5 \nfM= 5"},
+		{"id":"22ad3835495a8882","x":35,"y":-46,"width":143,"height":182,"type":"text","text":"im= 4 \nfM=8"},
+		{"id":"54b9cb9f5f91a058","x":274,"y":230,"width":143,"height":182,"type":"text","text":"im= 12 \nfM=12"},
+		{"id":"4c5fb498bbd35a16","x":334,"y":-269,"width":143,"height":182,"type":"text","text":"im= 1 \nfM=5"},
+		{"id":"347401251f01e54c","x":563,"y":230,"width":143,"height":182,"type":"text","text":"im= 5 \nfM= 8"},
+		{"id":"2a7268a11b150aeb","x":1050,"y":-228,"width":143,"height":182,"type":"text","text":"im= 12 \nfM=13"},
+		{"id":"c6af4983d9c9fc26","x":420,"y":463,"width":143,"height":182,"type":"text","text":"im= 15 \nfm= 15\niM=\nfM="},
+		{"id":"bb873311164ec054","x":1376,"y":249,"width":143,"height":182,"type":"text","text":"im=18\nfM=18"},
+		{"id":"da7cc8a6e6e02858","x":304,"y":-46,"width":143,"height":182,"type":"text","text":"im= 1\nfM=2"},
+		{"id":"bea647cb93a754d6","x":535,"y":-46,"width":143,"height":182,"type":"text","text":"im= 3 \nfM=4"},
+		{"id":"62803d0846fa03ce","x":812,"y":-46,"width":143,"height":182,"type":"text","text":"im= 8 \nfM=9"},
+		{"id":"c906ec5c3dc57278","x":761,"y":-319,"width":143,"height":182,"type":"text","text":"im= 8 \nfM= 12"},
+		{"id":"dbdc428a13554bee","x":-810,"y":431,"width":822,"height":464,"type":"file","file":"Pasted image 20230107100242.png"},
+		{"id":"7c489ee57b4be15b","x":-810,"y":136,"width":297,"height":259,"type":"text","text":"im : mayor fin minimo\nfm: im + duracion \nfM : El menor inicio de sus sucesores\niM : Fin maximo menos su duracion \nMT : iM- im\n\n"},
+		{"id":"ac34ff681ec8908e","x":-898,"y":-592,"width":998,"height":455,"type":"file","file":"Pasted image 20230107092702.png"}
+	],
+	"edges":[
+		{"id":"c6ca24d832b87813","fromNode":"ce329d3252b00dfa","fromSide":"right","toNode":"67fd24c411735be5","toSide":"left","label":"A(1)"},
+		{"id":"2ab798b8b8924a5f","fromNode":"67fd24c411735be5","fromSide":"right","toNode":"22ad3835495a8882","toSide":"left","label":"B(3)"},
+		{"id":"f3fa4c3cb2b9a678","fromNode":"67fd24c411735be5","fromSide":"right","toNode":"b8bb70c618a7b1b0","toSide":"left","label":"T(4)"},
+		{"id":"2b3f832ccd6c4664","fromNode":"b8bb70c618a7b1b0","fromSide":"right","toNode":"54b9cb9f5f91a058","toSide":"left","label":"C(7)"},
+		{"id":"a54f9a234cb3c78d","fromNode":"22ad3835495a8882","fromSide":"right","toNode":"da7cc8a6e6e02858","toSide":"left","label":"-B(3)"},
+		{"id":"069e19eca945d3bd","fromNode":"da7cc8a6e6e02858","fromSide":"right","toNode":"bea647cb93a754d6","toSide":"left","label":"T = 2"},
+		{"id":"bb54bac2b468f124","fromNode":"bea647cb93a754d6","fromSide":"right","toNode":"62803d0846fa03ce","toSide":"left","label":"D(5)"},
+		{"id":"02a122d1bba3c7cc","fromNode":"22ad3835495a8882","fromSide":"right","toNode":"4c5fb498bbd35a16","toSide":"left","label":"-E(7)+4"},
+		{"id":"7c8dff5bdabcbbdf","fromNode":"4c5fb498bbd35a16","fromSide":"right","toNode":"c906ec5c3dc57278","toSide":"left","label":"E(7)"},
+		{"id":"b6e09da6d1216d6c","fromNode":"54b9cb9f5f91a058","fromSide":"right","toNode":"347401251f01e54c","toSide":"left","label":"-C(7)"},
+		{"id":"aa393ee6fab31b17","fromNode":"c906ec5c3dc57278","fromSide":"right","toNode":"2a7268a11b150aeb","toSide":"left","label":"G(1)"},
+		{"id":"00700ab61261e704","fromNode":"62803d0846fa03ce","fromSide":"top","toNode":"c906ec5c3dc57278","toSide":"bottom","label":"Imaginaria"},
+		{"id":"49d2f13fa1565d82","fromNode":"347401251f01e54c","fromSide":"right","toNode":"62803d0846fa03ce","toSide":"bottom","label":"Imaginaria\n\n"},
+		{"id":"218d9504468907b2","fromNode":"54b9cb9f5f91a058","fromSide":"bottom","toNode":"c6af4983d9c9fc26","toSide":"left","label":"T=3"},
+		{"id":"eae83db0bb440149","fromNode":"bb873311164ec054","fromSide":"left","toNode":"c6af4983d9c9fc26","toSide":"right","label":"H(3)"},
+		{"id":"e2b7abbd97d7fe92","fromNode":"2a7268a11b150aeb","fromSide":"right","toNode":"bb873311164ec054","toSide":"left","label":"I(5)"},
+		{"id":"febb4211bf1441c2","fromNode":"62803d0846fa03ce","fromSide":"right","toNode":"2a7268a11b150aeb","toSide":"bottom","label":"F(4)"}
+	]
+}

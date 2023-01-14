@@ -1,0 +1,2 @@
+Se encarga de elegir que procesos **pasan a suspendidos** "de pasar de la memoria principal a la memoria secundaria" y viceversa.
+Tambien cuando los procesos estan **bloqueados los mueve ala memora secundaria** para no ocupar inecesariamente la memoria principal 

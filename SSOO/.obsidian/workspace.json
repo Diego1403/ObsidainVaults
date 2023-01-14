@@ -4,107 +4,143 @@
     "type": "split",
     "children": [
       {
-        "id": "80b78dd031aff9e3",
+        "id": "e527ba6fc60eb48d",
         "type": "tabs",
         "children": [
           {
-            "id": "e6dbac26bf64917e",
+            "id": "eab5d0cdde9a53bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Proceso.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Planificacion de procesos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "edd48a5a2cf116bf",
+            "id": "eb7b00f496d4e64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Proceso.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Algoritmos de planificacion/Formulario para calcular tiempo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60b882d90e3c86aa",
+            "id": "a42c542ce53b9455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Gestion de Procesos/Estados de un Proceso.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Algoritmos de planificacion/Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fa9e5a80990871a",
+            "id": "82d0bf1284749e03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Objetivos y criterios.md",
+                "file": "Teoria/2.-Procesos/Hilos/Deficion de Hilo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b145b13b57e87264",
+            "id": "30f0e7a2660da813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
+                "file": "Teoria/2.-Procesos/Hilos/Concurrencia y paralelismo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c5ef567891cbae0",
+            "id": "84fc49c9978dc6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
+                "file": "Teoria/2.-Procesos/Hilos/Biblioteca de Hilos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a61bb631174673b",
+            "id": "43f11bffe5690212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
+                "file": "Teoria/2.-Procesos/Hilos/Modelos Multihilos/Hilos a Nivel de usuario (ULT).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd55d16ed0b54360",
+            "id": "8ddc23957fb08df3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/Largo plazo.md",
+                "file": "Teoria/2.-Procesos/Hilos/Biblioteca de Hilos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e977c8d21425e61",
+            "id": "1e294d92a8489710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Hilos/Planificacion de hilos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "754d67e0f8a26c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/3.-Memoria/Gestion de Memoria/Definicion y conecptos necesarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8c6543468a6885d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/Algoritmos de planificacion/Formulario para calcular tiempo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b5e48f000de882",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,43 +152,43 @@
             }
           },
           {
-            "id": "36a14cef0687d58d",
+            "id": "dfbc0405c0ec32ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
+                "file": "Teoria/2.-Procesos/Hilos/Deficion de Hilo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7aeb14bd325fba1c",
+            "id": "f1687f3dace26d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Planificador.md",
+                "file": "Teoria/3.-Memoria/Gestion de Memoria/Memoria contigua.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e45d2956b62f2576",
+            "id": "1899203c6534825c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptos/Despachador.md",
+                "file": "Agregar luego.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -218,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
+                "file": "Agregar luego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md",
+                "file": "Agregar luego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teoria/2.-Procesos/Gestion de Procesos/Control sobre procesos/Cambios de proceso.md"
+                "file": "Agregar luego.md"
               }
             }
           },
@@ -288,17 +324,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36a14cef0687d58d",
+  "active": "1899203c6534825c",
   "lastOpenFiles": [
-    "Teoria/2.-Procesos/Gestion de Procesos/Bloque de control de proceso.md",
-    "Teoria/2.-Procesos/Gestion de Procesos/Imagen de un proceso.md",
-    "Teoria/2.-Procesos/Gestion de Procesos/Estados de un Proceso.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Algoritmos de planificaciones.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Criterios sobre planificaciones.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/Largo plazo.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A corto plazo ( Cpu scheduler).md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Niveles de planificacion/A medio plazo.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Objetivos y criterios.md"
+    "Teoria/3.-Memoria/Gestion de Memoria/Memoria contigua.md",
+    "Teoria/3.-Memoria/Gestion de Memoria/Definicion y conecptos necesarios.md",
+    "Teoria/2.-Procesos/Hilos/Modelos Multihilos/Hilos a nivel de Nucleo (KLT).md",
+    "Teoria/2.-Procesos/Hilos/Modelos Multihilos/Hilos a Nivel de usuario (ULT).md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Planificacion de procesos.md",
+    "Conceptos/Rafaga.md",
+    "Conceptos/pseudoparalelismo.md",
+    "Teoria/2.-Procesos/Hilos/Concurrencia y paralelismo.md",
+    "Teoria/2.-Procesos/Hilos/Deficion de Hilo.md",
+    "Teoria/2.-Procesos/Hilos/Diferencias entre procesos e hilos.md"
   ]
 }

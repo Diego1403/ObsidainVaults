@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios a resolver/Respuestas.md",
+                "file": "Teoria/Aboles/Heaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b98221f3a6b1a309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios a resolver/Preguntas.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,19 +55,20 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "597760ff43ba9e06",
+        "id": "12b09e188987df49",
         "type": "tabs",
         "children": [
           {
-            "id": "4a026abddb29d8a2",
+            "id": "549dfa479b98956b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejercicios a resolver/Preguntas.md",
+                "file": "Ejercicios a resolver/Respuestas.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios a resolver/Respuestas.md",
+                "file": "Ejercicios a resolver/Preguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios a resolver/Respuestas.md",
+                "file": "Ejercicios a resolver/Preguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios a resolver/Respuestas.md"
+                "file": "Ejercicios a resolver/Preguntas.md"
               }
             }
           }
@@ -188,17 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f62dbf36547fdafb",
+  "active": "b98221f3a6b1a309",
   "lastOpenFiles": [
+    "Ejercicios a resolver/Respuestas.md",
     "Ejercicios a resolver/Preguntas.md",
     "Ejercicios a resolver/Julio -2022 ejercio 2.md",
-    "Ejercicios a resolver/Respuestas.md",
-    "Images/Pasted image 20221224100146.png",
-    "Repaso UML.md",
-    "Definiciones.md",
-    "Errores frecuentes.md",
-    "Operadores.md",
-    "2022-12-26.md",
-    "Teoria/Listas/Listas enlazadas.md"
+    "Teoria/Mallas regulares/Quadtrees.md",
+    "Teoria/Mallas regulares/Mallas regulares.md",
+    "Teoria/Tablas de Dispersión/Dispersion Abierta.md",
+    "Teoria/Tablas de Dispersión/Dispersion Cerrada.md",
+    "Teoria/Tablas de Dispersión/Funciones de dispersion.md",
+    "Teoria/FIcheros/Arboles B.md",
+    "Teoria/Aboles/Arbol B.md"
   ]
 }
