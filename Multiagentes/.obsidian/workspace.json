@@ -1,68 +1,39 @@
 {
   "main": {
-    "id": "e0f70bc31cad6668",
+    "id": "3483d616b3236724",
     "type": "split",
     "children": [
       {
-        "id": "bee5f28f4a39880e",
+        "id": "c4a69c68b380e2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "95c4aa8c36f9583e",
+            "id": "c0f2199b715b4edc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posibles preguntas.md",
+                "file": "presentacion.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8c2b514f6a1a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posibles preguntas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32bb3305d1f8e9b6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
-                "viewState": {
-                  "x": 136,
-                  "y": -466.22478185465195,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5d14095df6dfd6a0",
+    "id": "24e3dbb4dfa69dd7",
     "type": "split",
     "children": [
       {
-        "id": "b16735959e19b238",
+        "id": "776e2e58feb86b99",
         "type": "tabs",
         "children": [
           {
-            "id": "ea50efe00b830c35",
+            "id": "15f5ca318d2a5e9a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +43,7 @@
             }
           },
           {
-            "id": "6524ccd56435cc2f",
+            "id": "c64918c56453461e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +58,7 @@
             }
           },
           {
-            "id": "2cd9e9b7f3dbf10e",
+            "id": "f95e0f9652baad1f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b866ac2143ef2ff9",
+    "id": "979b80753145cc25",
     "type": "split",
     "children": [
       {
-        "id": "382b3044cfab1cf3",
+        "id": "7c9df62de033c34e",
         "type": "tabs",
         "children": [
           {
-            "id": "811df9e8729371e0",
+            "id": "54620bb6e4ec9a28",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,19 +97,19 @@
             }
           },
           {
-            "id": "50ecfd976483b68b",
+            "id": "085347058b99e88d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a71523737a5e9a1a",
+            "id": "79b49a312b2ea0db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +120,12 @@
             }
           },
           {
-            "id": "e7cc7cb8955743ec",
+            "id": "32eb95c4acc8d679",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas"
+                "file": "presentacion.md"
               }
             }
           }
@@ -175,12 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32bb3305d1f8e9b6",
-  "lastOpenFiles": [
-    "Ejercicio a resolver que pueden venir.md",
-    "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
-    "Procesadores Segmentados/Arquitectura DLX.md",
-    "Procesadores Segmentados/Arquitectura DLX.canvas",
-    "Posibles preguntas.md"
-  ]
+  "active": "c0f2199b715b4edc",
+  "lastOpenFiles": []
 }

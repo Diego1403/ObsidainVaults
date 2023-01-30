@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agregar luego.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agregar luego.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Agregar luego.md",
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agregar luego.md"
+                "file": "Teoria/2.-Procesos/Planificacion de Procesos/El reloj de interrupciones.md"
               }
             }
           },
@@ -326,15 +326,15 @@
   },
   "active": "1899203c6534825c",
   "lastOpenFiles": [
-    "Teoria/3.-Memoria/Gestion de Memoria/Memoria contigua.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Criterios sobre planificaciones.md",
+    "Agregar luego.md",
     "Teoria/3.-Memoria/Gestion de Memoria/Definicion y conecptos necesarios.md",
+    "Teoria/3.-Memoria/Gestion de Memoria/Memoria contigua.md",
+    "Teoria/2.-Procesos/Planificacion de Procesos/Planificacion de procesos.md",
     "Teoria/2.-Procesos/Hilos/Modelos Multihilos/Hilos a nivel de Nucleo (KLT).md",
     "Teoria/2.-Procesos/Hilos/Modelos Multihilos/Hilos a Nivel de usuario (ULT).md",
-    "Teoria/2.-Procesos/Planificacion de Procesos/Planificacion de procesos.md",
     "Conceptos/Rafaga.md",
     "Conceptos/pseudoparalelismo.md",
-    "Teoria/2.-Procesos/Hilos/Concurrencia y paralelismo.md",
-    "Teoria/2.-Procesos/Hilos/Deficion de Hilo.md",
-    "Teoria/2.-Procesos/Hilos/Diferencias entre procesos e hilos.md"
+    "Teoria/2.-Procesos/Hilos/Concurrencia y paralelismo.md"
   ]
 }

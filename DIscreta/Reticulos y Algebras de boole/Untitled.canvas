@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"11fe944c5fca172b","x":-213,"y":-131,"width":250,"height":60,"color":"4","type":"text","text":"Reticulo"},
+		{"id":"fba75d2706477575","x":-212,"y":-21,"width":250,"height":86,"type":"text","text":"Es una terna (L,v,^) donde L != vacio : LxL -> L son operaciones internas "},
+		{"id":"7457965ac478d768","x":87,"y":-8,"width":213,"height":60,"color":"1","type":"text","text":"las operaciones internas verifican :"},
+		{"id":"42bd2d01aa78efec","x":493,"y":-96,"width":250,"height":60,"type":"text","text":"absorcion"},
+		{"id":"3654f53590ba5ad4","x":493,"y":22,"width":250,"height":60,"type":"text","text":"asocitiva "},
+		{"id":"18a876bd2ac83e05","x":800,"y":-198,"width":250,"height":62,"type":"text","text":"$$ a \\land a = a  , a \\lor a = a , \\forall a  \\in L $$\n\n"},
+		{"id":"e540d329e2ab3cfb","x":800,"y":-106,"width":250,"height":80,"type":"text","text":"$$a \\lor (a \\land b )= a $$ $$ \na \\land ( a \\lor b) = a\n$$"},
+		{"id":"ae5cb50d3fce2525","x":805,"y":22,"width":250,"height":60,"type":"text","text":"$$ (a \\lor b) \\lor c = a\\lor (b\\lor c)$$\n$$ (a \\land b) \\land c = a\\lor (b\\land c)$$\n"},
+		{"id":"ee2b6018fc7b26ac","x":805,"y":116,"width":250,"height":92,"type":"text","text":"$$a \\land b = b \\land a  $$\n$$a \\lor b = b \\lor a  $$"},
+		{"id":"bfb51fd322cb2677","x":459,"y":-196,"width":250,"height":60,"type":"text","text":"idempotencia "},
+		{"id":"f68608b67b66a7b7","x":459,"y":132,"width":250,"height":60,"type":"text","text":"conmutativa"},
+		{"id":"2d3924934c4270ed","x":131,"y":132,"width":126,"height":50,"type":"text","text":"ejemplo "},
+		{"id":"cc0c7e67a152afcb","x":416,"y":258,"width":250,"height":60,"type":"text","text":"1+1= 2, no cumple idempotencia "},
+		{"id":"6b093417dab77e52","x":69,"y":258,"width":250,"height":60,"type":"text","text":"(IR,+,* ) es reticulo ?"}
+	],
+	"edges":[
+		{"id":"39c7f13a6b55054c","fromNode":"11fe944c5fca172b","fromSide":"bottom","toNode":"fba75d2706477575","toSide":"top"},
+		{"id":"9535781dc81a8e32","fromNode":"7457965ac478d768","fromSide":"right","toNode":"42bd2d01aa78efec","toSide":"left"},
+		{"id":"f9d07aef62575534","fromNode":"7457965ac478d768","fromSide":"right","toNode":"3654f53590ba5ad4","toSide":"left"},
+		{"id":"cfdfad2323ff9f96","fromNode":"7457965ac478d768","fromSide":"right","toNode":"f68608b67b66a7b7","toSide":"left"},
+		{"id":"42fd24f5b6a49b4b","fromNode":"7457965ac478d768","fromSide":"right","toNode":"bfb51fd322cb2677","toSide":"left"},
+		{"id":"dcf595e179cc5cb7","fromNode":"bfb51fd322cb2677","fromSide":"right","toNode":"18a876bd2ac83e05","toSide":"left"},
+		{"id":"fa9e15a9a3ffe0a5","fromNode":"42bd2d01aa78efec","fromSide":"right","toNode":"e540d329e2ab3cfb","toSide":"left"},
+		{"id":"f454cc9eb7b117af","fromNode":"3654f53590ba5ad4","fromSide":"right","toNode":"ae5cb50d3fce2525","toSide":"left"},
+		{"id":"748f717f2d98bd7a","fromNode":"f68608b67b66a7b7","fromSide":"right","toNode":"ee2b6018fc7b26ac","toSide":"left"},
+		{"id":"f655c67813e90956","fromNode":"fba75d2706477575","fromSide":"right","toNode":"7457965ac478d768","toSide":"left"},
+		{"id":"cd00b6f04d518dbd","fromNode":"7457965ac478d768","fromSide":"bottom","toNode":"2d3924934c4270ed","toSide":"top"},
+		{"id":"6c7f741217adb750","fromNode":"2d3924934c4270ed","fromSide":"bottom","toNode":"6b093417dab77e52","toSide":"top"},
+		{"id":"ca6f69424109e30b","fromNode":"6b093417dab77e52","fromSide":"right","toNode":"cc0c7e67a152afcb","toSide":"left","label":"no , pq"}
+	]
+}

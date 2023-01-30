@@ -1,68 +1,43 @@
 {
   "main": {
-    "id": "e0f70bc31cad6668",
+    "id": "69a51696576f16f6",
     "type": "split",
     "children": [
       {
-        "id": "bee5f28f4a39880e",
+        "id": "64ec0a32fbf89b79",
         "type": "tabs",
         "children": [
           {
-            "id": "95c4aa8c36f9583e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posibles preguntas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8c2b514f6a1a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posibles preguntas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32bb3305d1f8e9b6",
+            "id": "c61684d96f4fe450",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "Reticulos y Algebras de boole/Untitled.canvas",
                 "viewState": {
-                  "x": 136,
-                  "y": -466.22478185465195,
-                  "zoom": 0,
+                  "x": 362.4705898752746,
+                  "y": 84.26829200293494,
+                  "zoom": -0.03327270708413288,
                   "snapToGrid": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5d14095df6dfd6a0",
+    "id": "ef687fe5fd10fe4d",
     "type": "split",
     "children": [
       {
-        "id": "b16735959e19b238",
+        "id": "be8ce57d4e6bf23e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea50efe00b830c35",
+            "id": "67a5387dc4ec2d17",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +47,7 @@
             }
           },
           {
-            "id": "6524ccd56435cc2f",
+            "id": "77af297118e7900d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +62,7 @@
             }
           },
           {
-            "id": "2cd9e9b7f3dbf10e",
+            "id": "215c332353fca501",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,23 +73,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b866ac2143ef2ff9",
+    "id": "a44b1cabe26ecc00",
     "type": "split",
     "children": [
       {
-        "id": "382b3044cfab1cf3",
+        "id": "38e6b5e1f0a08874",
         "type": "tabs",
         "children": [
           {
-            "id": "811df9e8729371e0",
+            "id": "b45aaa80d7a0cc82",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "Reticulos y Algebras de boole/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,19 +101,19 @@
             }
           },
           {
-            "id": "50ecfd976483b68b",
+            "id": "98b48e5e7c79acac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "Reticulos y Algebras de boole/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a71523737a5e9a1a",
+            "id": "5f6a363d0aaf5b0f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +124,12 @@
             }
           },
           {
-            "id": "e7cc7cb8955743ec",
+            "id": "eee9ff87658ba3ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas"
+                "file": "Reticulos y Algebras de boole/Untitled.canvas"
               }
             }
           }
@@ -175,12 +150,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32bb3305d1f8e9b6",
+  "active": "c61684d96f4fe450",
   "lastOpenFiles": [
-    "Ejercicio a resolver que pueden venir.md",
-    "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
-    "Procesadores Segmentados/Arquitectura DLX.md",
-    "Procesadores Segmentados/Arquitectura DLX.canvas",
-    "Posibles preguntas.md"
+    "Conjuntos/Untitled.canvas",
+    "Reticulos y Algebras de boole/Untitled.canvas",
+    "Reticulos y Algebras de boole/Untitled.md"
   ]
 }

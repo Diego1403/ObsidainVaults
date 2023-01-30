@@ -1,49 +1,69 @@
 {
   "main": {
-    "id": "e0f70bc31cad6668",
+    "id": "6c2d1476eb70b20a",
     "type": "split",
     "children": [
       {
-        "id": "bee5f28f4a39880e",
+        "id": "8c559c92bbf636a9",
         "type": "tabs",
         "children": [
           {
-            "id": "95c4aa8c36f9583e",
+            "id": "153c073e0e318188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posibles preguntas.md",
+                "file": "presentacion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc8c2b514f6a1a61",
+            "id": "e6279c33c5f6182c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posibles preguntas.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "32bb3305d1f8e9b6",
+            "id": "2442e17e5685bb23",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
-                "viewState": {
-                  "x": 136,
-                  "y": -466.22478185465195,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Proceseamiento de informacion  visual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eab9d78b02498cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion/Conceptos Basicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce4714153a9a705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Componentes de un sistema PDI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -54,15 +74,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5d14095df6dfd6a0",
+    "id": "ea39c3a04752e12e",
     "type": "split",
     "children": [
       {
-        "id": "b16735959e19b238",
+        "id": "bf6b1460a069547f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea50efe00b830c35",
+            "id": "0aec0826aa8779b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +92,7 @@
             }
           },
           {
-            "id": "6524ccd56435cc2f",
+            "id": "5da7069290bdc3ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +107,7 @@
             }
           },
           {
-            "id": "2cd9e9b7f3dbf10e",
+            "id": "ea253ac8e52bbdd1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -98,23 +118,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b866ac2143ef2ff9",
+    "id": "445aad9141672214",
     "type": "split",
     "children": [
       {
-        "id": "382b3044cfab1cf3",
+        "id": "29bfa898c206ec8a",
         "type": "tabs",
         "children": [
           {
-            "id": "811df9e8729371e0",
+            "id": "1a63fa4a9669cea3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "Proceseamiento de informacion  visual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,19 +146,19 @@
             }
           },
           {
-            "id": "50ecfd976483b68b",
+            "id": "1ef06d7f8d3b4360",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
+                "file": "Proceseamiento de informacion  visual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a71523737a5e9a1a",
+            "id": "e16ec56f11136145",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,12 +169,12 @@
             }
           },
           {
-            "id": "e7cc7cb8955743ec",
+            "id": "042a99bc46a52fba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas"
+                "file": "Proceseamiento de informacion  visual.md"
               }
             }
           }
@@ -175,12 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32bb3305d1f8e9b6",
+  "active": "2442e17e5685bb23",
   "lastOpenFiles": [
-    "Ejercicio a resolver que pueden venir.md",
-    "Procesadores Segmentados/Procesadores SUPERESCALARES.canvas",
-    "Procesadores Segmentados/Arquitectura DLX.md",
-    "Procesadores Segmentados/Arquitectura DLX.canvas",
-    "Posibles preguntas.md"
+    "Introduccion/Conceptos Basicos.md",
+    "presentacion.md",
+    "Componentes de un sistema PDI.md",
+    "Proceseamiento de informacion  visual.md",
+    "Untitled.md",
+    "TODO.md"
   ]
 }

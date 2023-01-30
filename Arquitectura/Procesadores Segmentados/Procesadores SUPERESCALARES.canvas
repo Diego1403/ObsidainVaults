@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"92a14ecd2ce5e25e","x":626,"y":-356,"width":250,"height":60,"type":"text","text":"#### Emision de instruciones "},
+		{"id":"47613df2d75fecea","x":626,"y":-206,"width":250,"height":60,"type":"text","text":"#### Renombramiento de registros"},
+		{"id":"a6ba90eb6ad9a259","x":626,"y":-500,"width":250,"height":60,"type":"text","text":"#### Decodificacion y Precodificacion"},
+		{"id":"e5eed829604abe0a","x":626,"y":-86,"width":250,"height":50,"type":"text","text":"#### Reordenamiento de instrucciones "},
+		{"id":"5c136c3556fb2d3b","x":561,"y":-955,"width":250,"height":60,"type":"text","text":"Emision ordenada con finalizacion  ordenada "},
+		{"id":"e3a100e42b5a0374","x":561,"y":-866,"width":250,"height":60,"type":"text","text":"Emision ordenada con finalizacion  desordenada "},
+		{"id":"29a7c660c353eab2","x":561,"y":-787,"width":250,"height":60,"type":"text","text":"Emision desordenada con finalizacion  ordenada "},
+		{"id":"b1cb51e01523a2d2","x":213,"y":-812,"width":250,"height":50,"type":"text","text":"### Variacion de orden\n"},
+		{"id":"6f9d293c58e48cf9","x":561,"y":-706,"width":250,"height":60,"type":"text","text":"Emision desordenada con finalizacion  desordenada "},
+		{"id":"8379ab604036f06d","x":-456,"y":-306,"width":377,"height":60,"type":"text","text":"## Procesadores Superescalares"},
+		{"id":"befc1639d37777e7","x":150,"y":-326,"width":250,"height":100,"type":"text","text":"### Elementos de los super escalares\n"}
+	],
+	"edges":[
+		{"id":"a49faa4dde74e62d","fromNode":"b1cb51e01523a2d2","fromSide":"right","toNode":"5c136c3556fb2d3b","toSide":"left"},
+		{"id":"e2eb1b04588edcd2","fromNode":"b1cb51e01523a2d2","fromSide":"right","toNode":"e3a100e42b5a0374","toSide":"left"},
+		{"id":"9621099be7ebc016","fromNode":"b1cb51e01523a2d2","fromSide":"right","toNode":"29a7c660c353eab2","toSide":"left"},
+		{"id":"73c64b1ad907deed","fromNode":"b1cb51e01523a2d2","fromSide":"right","toNode":"6f9d293c58e48cf9","toSide":"left"},
+		{"id":"b8d8f6f4ac4ce34c","fromNode":"8379ab604036f06d","fromSide":"right","toNode":"b1cb51e01523a2d2","toSide":"left"},
+		{"id":"8c6b7377f7e7dcd7","fromNode":"8379ab604036f06d","fromSide":"right","toNode":"befc1639d37777e7","toSide":"left"},
+		{"id":"c31a618350ed2b1b","fromNode":"befc1639d37777e7","fromSide":"right","toNode":"a6ba90eb6ad9a259","toSide":"left"},
+		{"id":"4471cbb351572ecc","fromNode":"befc1639d37777e7","fromSide":"right","toNode":"92a14ecd2ce5e25e","toSide":"left"},
+		{"id":"c9c7a413cc9dd5e9","fromNode":"befc1639d37777e7","fromSide":"right","toNode":"47613df2d75fecea","toSide":"left"},
+		{"id":"b5ca99f5420ce16f","fromNode":"befc1639d37777e7","fromSide":"right","toNode":"e5eed829604abe0a","toSide":"left"}
+	]
+}
