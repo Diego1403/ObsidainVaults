@@ -1,100 +1,51 @@
 {
   "main": {
-    "id": "908756bde2a4ab33",
+    "id": "09db6fa9a3e0478b",
     "type": "split",
     "children": [
       {
-        "id": "7b0cae0eb2144bcb",
+        "id": "d22afb11248e74d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d039cb1bde5d5ff4",
+            "id": "eebac265431efb0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentacion.md",
+                "file": "presentacion.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e2daca5c653c0ea",
+            "id": "92ca1eaa0afe3c79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World wide web/The world wide web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7a6f6e38b788ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que instalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3af21eeba2ec6261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Que instalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3c98164d638e324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SCRUM/Product backlog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33423f89933db3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World wide web/The world wide web.md",
+                "file": "Aplicacioes Moviles/Tema 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "77e3c0d08e775644",
+    "id": "020da9595f8a81f3",
     "type": "split",
     "children": [
       {
-        "id": "d221b273d4df4a44",
+        "id": "02f9b2dfc727dfef",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b4de4cb0369502",
+            "id": "ad0edda527d02a9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +55,7 @@
             }
           },
           {
-            "id": "4e8303cf05cd13d4",
+            "id": "ed87d1137fc8d8d3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,7 +70,7 @@
             }
           },
           {
-            "id": "7dabbbd9251ecbdc",
+            "id": "d19b05869ba3b4ff",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -130,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "0f821631e087d92a",
+    "id": "94baa23d0cd636de",
     "type": "split",
     "children": [
       {
-        "id": "6d932a13d9750df2",
+        "id": "18a8134713a80c96",
         "type": "tabs",
         "children": [
           {
-            "id": "8abb4607912fb26c",
+            "id": "7a05c1c71552b8b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World wide web/The world wide web.md",
+                "file": "presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,19 +109,19 @@
             }
           },
           {
-            "id": "2a0aeb58054739a3",
+            "id": "6d8ab8f63e99c240",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World wide web/The world wide web.md",
+                "file": "presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5b7ae5c17572b9df",
+            "id": "0d080a00f2eabfd4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,12 +132,12 @@
             }
           },
           {
-            "id": "d2bf218cc9d3b692",
+            "id": "661d63cd9a05c4d0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World wide web/The world wide web.md"
+                "file": "presentacion.md"
               }
             }
           }
@@ -207,13 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33423f89933db3d9",
+  "active": "eebac265431efb0a",
   "lastOpenFiles": [
-    "Que instalar.md",
-    "Presentacion.md",
-    "SCRUM/meetings.md",
-    "SCRUM/Product backlog.md",
-    "SCRUM/User stories.md",
-    "World wide web/The world wide web.md"
+    "Aplicacioes Moviles/Tema 1.md",
+    "presentacion.md"
   ]
 }

@@ -15,5 +15,9 @@ final -> 40 %
 Trabajo opcional (ingles "10 % nota")
 
 
-
+each task as an issue and every mile stone 
 **ppt no son apuntes**
+
+
+
+

@@ -1,2 +1,0 @@
-- [ ] Resumen tema 1
-- [ ] 

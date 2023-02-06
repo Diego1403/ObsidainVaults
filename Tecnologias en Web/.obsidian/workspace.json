@@ -1,96 +1,35 @@
 {
   "main": {
-    "id": "6c2d1476eb70b20a",
+    "id": "0df08ec227344f54",
     "type": "split",
     "children": [
       {
-        "id": "8c559c92bbf636a9",
+        "id": "cec796940130c9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "153c073e0e318188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "presentacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6279c33c5f6182c",
+            "id": "278703079e57fddd",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2442e17e5685bb23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proceseamiento de informacion  visual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a38a194f249a0218",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Componentes de un sistema PDI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eab9d78b02498cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduccion/Conceptos Basicos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ce4714153a9a705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Componentes de un sistema PDI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea39c3a04752e12e",
+    "id": "5b4a5062bd7bef44",
     "type": "split",
     "children": [
       {
-        "id": "bf6b1460a069547f",
+        "id": "8b32af57a0151dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "0aec0826aa8779b0",
+            "id": "85e1a384fcc98af2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,7 +39,7 @@
             }
           },
           {
-            "id": "5da7069290bdc3ec",
+            "id": "d5484de5a6e4bed0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -115,7 +54,7 @@
             }
           },
           {
-            "id": "ea253ac8e52bbdd1",
+            "id": "97da911d4436d377",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -129,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "445aad9141672214",
+    "id": "f17cacc09e2c530a",
     "type": "split",
     "children": [
       {
-        "id": "29bfa898c206ec8a",
+        "id": "9580878663731ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "1a63fa4a9669cea3",
+            "id": "8918e5b54c093f09",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Componentes de un sistema PDI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,19 +92,18 @@
             }
           },
           {
-            "id": "1ef06d7f8d3b4360",
+            "id": "7a6d813021be76ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Componentes de un sistema PDI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e16ec56f11136145",
+            "id": "e3fde410b3f83abc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,13 +114,11 @@
             }
           },
           {
-            "id": "042a99bc46a52fba",
+            "id": "dbb1548827d6af45",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Componentes de un sistema PDI.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -203,14 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a38a194f249a0218",
-  "lastOpenFiles": [
-    "Introduccion/Conceptos Basicos.md",
-    "Untitled.md",
-    "TODO.md",
-    "Untitled 1.md",
-    "Proceseamiento de informacion  visual.md",
-    "presentacion.md",
-    "Componentes de un sistema PDI.md"
-  ]
+  "active": "278703079e57fddd",
+  "lastOpenFiles": []
 }
