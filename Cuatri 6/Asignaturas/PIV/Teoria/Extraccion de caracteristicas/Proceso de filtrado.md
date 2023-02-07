@@ -7,3 +7,4 @@ solo coje las bajas
 deja pasar las altas
 ### Filtro paso banda
 deja pasar un rango 
+
