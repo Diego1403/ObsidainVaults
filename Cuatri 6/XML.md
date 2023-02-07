@@ -1,0 +1,1 @@
+It can be confusing for structured so some some alternatives like json or yaml

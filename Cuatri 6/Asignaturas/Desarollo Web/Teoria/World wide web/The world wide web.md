@@ -59,6 +59,8 @@ with web sockets , we open a can have direct comunication with the server and th
 the client act as observer , so any changes will be broadcasted to all clients . Thanks to the bidirectional conumunication. 
 
 ### Principal components in web dev
+
+### front end
 - URL "Unified Resource Locator"
 	- Format 
 	- ![[Pasted image 20230206100222.png]]
@@ -66,8 +68,8 @@ the client act as observer , so any changes will be broadcasted to all clients .
 - [HTML]() "HyperText Markup Language"
 ### Aditional components 
 - [[CSS]] "Cascade Style Sheet" - used for design
-- XML "eXtensible Markup Language" - Used to code any kind of data
-- XSL "eXtensible Stylesheet Language Family"
+- [[XML]] "eXtensible Markup Language" - Used to code any kind of data , read by the computers  
+- [[XSL]] "eXtensible Stylesheet Language Family"
 
 
 ## Backend languages "server side"
@@ -75,8 +77,22 @@ the client act as observer , so any changes will be broadcasted to all clients .
  - CGI (Common Gate Interface) is a pioneering technology for dynamic web
  - ![[Pasted image 20230206101437.png]]
 
+- Fast CGI allow multiple conections becaue it allows load balancing 
+telnet: "program to open a socket.....and send request as a server but manualy? " 
+- Adventages 
+	- in
 
-telnet: "program to open a socket.....and send request as a server but manualy? "
+
+BACKEND languages 
+
+- we tend to have "scripted languajes" (interpreted , not compiled)
+php file would be on the server side , to responde the http responde.  The client would se the result of executing the code on the server
+
+- with Post we can send whatever from client to server
 
 #### post request  
 The parameters are on the content
+
+
+
+The client side must me standerized 

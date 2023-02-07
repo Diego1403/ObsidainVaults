@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md"
               }
             }
           }
@@ -185,15 +185,15 @@
   },
   "active": "131b149b753a7005",
   "lastOpenFiles": [
+    "XSL.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
+    "XML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/CSS.md",
     "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
     "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
     "Images/Pasted image 20230207094957.png",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
-    "Asignaturas/Multiagentes/Teoria/presentacion.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md"
   ]
 }
