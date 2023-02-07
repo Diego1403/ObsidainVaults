@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Multiagentes/Untitled.md",
+                "file": "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Multiagentes/Untitled.md",
+                "file": "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Multiagentes/Untitled.md",
+                "file": "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Multiagentes/Untitled.md"
+                "file": "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md"
               }
             }
           }
@@ -197,6 +197,7 @@
   },
   "active": "7583a2aca6e16775",
   "lastOpenFiles": [
+    "Asignaturas/Multiagentes/Untitled.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
     "XSL.md",
     "XML.md",
@@ -205,7 +206,6 @@
     "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
     "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
     "Images/Pasted image 20230207094957.png",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
   ]
 }
