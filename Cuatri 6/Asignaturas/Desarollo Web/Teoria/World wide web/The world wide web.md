@@ -65,7 +65,7 @@ the client act as observer , so any changes will be broadcasted to all clients .
 - HTTP "HyperText Transfer Protocol"
 - [HTML]() "HyperText Markup Language"
 ### Aditional components 
-- CSS "Cascade Style Sheet" - used for design
+- [[CSS]] "Cascade Style Sheet" - used for design
 - XML "eXtensible Markup Language" - Used to code any kind of data
 - XSL "eXtensible Stylesheet Language Family"
 
