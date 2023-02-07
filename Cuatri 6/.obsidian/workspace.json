@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c34f44492e8f860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131b149b753a7005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a859853d5969d7d8",
+  "active": "131b149b753a7005",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
     "Asignaturas/Multiagentes/Teoria/presentacion.md",
     "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
     "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
     "Asignaturas/PIV/Teoria/Componentes de un sistema PDI.md",
     "Images/Pasted image 20230130121616.png",
     "Asignaturas/Multiagentes/Untitled.md",
-    "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
-    "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
-    "Images/Pasted image 20230131112146.png"
+    "Asignaturas/Desarollo Web/Practicas/Que instalar.md"
   ]
 }
