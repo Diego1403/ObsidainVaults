@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a859853d5969d7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6eedecd7c813bb",
+  "active": "a859853d5969d7d8",
   "lastOpenFiles": [
+    "Asignaturas/Multiagentes/Teoria/presentacion.md",
     "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
     "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
     "Asignaturas/PIV/Teoria/Componentes de un sistema PDI.md",
