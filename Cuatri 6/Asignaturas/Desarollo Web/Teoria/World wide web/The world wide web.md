@@ -71,6 +71,7 @@ the client act as observer , so any changes will be broadcasted to all clients .
 - [[XML]] "eXtensible Markup Language" - Used to code any kind of data , read by the computers  
 - [[XSL]] "eXtensible Stylesheet Language Family"
 
+It works on the DOM (Document object model) of the html page "its like the order tree like div in a div with and atribute"
 
 ## Backend languages "server side"
 

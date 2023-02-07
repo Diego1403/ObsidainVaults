@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7583a2aca6e16775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Multiagentes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md"
+                "file": "Asignaturas/Multiagentes/Untitled.md"
               }
             }
           }
@@ -183,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "131b149b753a7005",
+  "active": "7583a2aca6e16775",
   "lastOpenFiles": [
-    "XSL.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
+    "XSL.md",
     "XML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/HTML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/CSS.md",
