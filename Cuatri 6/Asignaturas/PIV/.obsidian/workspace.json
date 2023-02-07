@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "6c2d1476eb70b20a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c559c92bbf636a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "153c073e0e318188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presentacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6279c33c5f6182c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2442e17e5685bb23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proceseamiento de informacion  visual.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a38a194f249a0218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion/Conceptos Basicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07746ab4b485b0b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extraccion de caracteristicas/Concepto de caracteristica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0452a8063bf326f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extraccion de caracteristicas/Proceso de filtrado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc094c07ec06208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extraccion de caracteristicas/Dominio Espacial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eab9d78b02498cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduccion/Conceptos Basicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ce4714153a9a705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Componentes de un sistema PDI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea39c3a04752e12e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf6b1460a069547f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aec0826aa8779b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5da7069290bdc3ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea253ac8e52bbdd1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "445aad9141672214",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bfa898c206ec8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a63fa4a9669cea3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Extraccion de caracteristicas/Dominio Espacial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ef06d7f8d3b4360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Extraccion de caracteristicas/Dominio Espacial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e16ec56f11136145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "042a99bc46a52fba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Extraccion de caracteristicas/Dominio Espacial.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fc094c07ec06208",
+  "lastOpenFiles": [
+    "Extraccion de caracteristicas/Proceso de filtrado.md",
+    "Extraccion de caracteristicas/Concepto de caracteristica.md",
+    "Introduccion/Conceptos Basicos.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Proceseamiento de informacion  visual.md",
+    "Componentes de un sistema PDI.md",
+    "TODO.md",
+    "presentacion.md"
+  ]
+}
