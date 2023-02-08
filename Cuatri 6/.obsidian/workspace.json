@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
+                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
+                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
+                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md"
+                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md"
               }
             }
           }
@@ -245,15 +245,15 @@
   },
   "active": "cb395679890c20c6",
   "lastOpenFiles": [
+    "Asignaturas/Multiagentes/Teoria/JADE.md",
+    "Asignaturas/Multiagentes/Teoria/presentacion.md",
+    "Asignaturas/Multiagentes/Untitled.md",
+    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
+    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado Espacial.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Convoluacion y correlacion.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/EL histograma.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Proceso de filtrado.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Espacial.md",
-    "Asignaturas/PIV/Teoria/Componentes de un sistema PDI.md",
-    "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
-    "Asignaturas/PIV/Teoria/presentacion.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Concepto de caracteristica.md"
+    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Espacial.md"
   ]
 }
