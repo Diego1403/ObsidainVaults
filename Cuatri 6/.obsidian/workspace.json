@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+                "file": "Asignaturas/PIV/Practicas/Practica 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+                "file": "Asignaturas/PIV/Practicas/Practica 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+                "file": "Asignaturas/PIV/Practicas/Practica 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 1.md"
+                "file": "Asignaturas/PIV/Practicas/Practica 1.md"
               }
             }
           }
@@ -269,6 +269,7 @@
   },
   "active": "7028e9220cf821d3",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
     "Asignaturas/PIV/Practicas/Practica 1.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/XML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/XSL.md",
@@ -277,7 +278,6 @@
     "Asignaturas/Multiagentes/Teoria/JADE.md",
     "Asignaturas/Multiagentes/Teoria/presentacion.md",
     "Asignaturas/Multiagentes/Untitled.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md"
+    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md"
   ]
 }
