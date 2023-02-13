@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eaa5a6b5fa1cab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76a8a1b91a60b2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 414.5
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md"
               }
             }
           }
@@ -171,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b8f984c9caca7e",
+  "active": "76a8a1b91a60b2a2",
   "lastOpenFiles": [
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/web sockets.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
+    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Untitled.md",
+    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/web sockets.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Backend/PHP.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Backend/Python.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
-    "Asignaturas/PIV/Practicas/Practica 1.md",
-    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md"
+    "Asignaturas/PIV/Practicas/Practica 1.md"
   ]
 }
