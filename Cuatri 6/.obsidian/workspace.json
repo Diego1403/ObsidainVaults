@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
               }
             }
           }
@@ -245,15 +245,15 @@
   },
   "active": "607e09efd03a4706",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
+    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Frecuencial.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
     "Asignaturas/PIV/Practicas/Practica 1.md",
-    "Asignaturas/Multiagentes/Teoria/Agentes.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/notas.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
-    "Asignaturas/Multiagentes/Teoria/JADE.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md"
+    "Asignaturas/Multiagentes/Teoria/Agentes.md"
   ]
 }
