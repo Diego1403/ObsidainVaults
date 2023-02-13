@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md"
               }
             }
           }
@@ -246,8 +246,8 @@
   "active": "607e09efd03a4706",
   "lastOpenFiles": [
     "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
