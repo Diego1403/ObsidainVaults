@@ -26,5 +26,5 @@
 
 
 Usaremos ACL como lenguaje de comunicacion 
-"solo Agente-Agente"
+
 
