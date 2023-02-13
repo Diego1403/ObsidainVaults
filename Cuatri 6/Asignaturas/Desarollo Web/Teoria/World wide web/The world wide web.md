@@ -24,7 +24,8 @@ The first client was called the world wide web
 
 
 ## W3C
- - In 1994 creates W3C "world wide web consortium" 
+- It protectes the internets development and standardization
+- In 1994 creates W3C "world wide web consortium" 
 - members are oracle , apple , telefonica , etc
 ### Principles 
 - Web for everyone  "anyone can enter "
@@ -72,6 +73,7 @@ the client act as observer , so any changes will be broadcasted to all clients .
 - [[XSL]] "eXtensible Stylesheet Language Family"
 
 It works on the DOM (Document object model) of the html page "its like the order tree like div in a div with and atribute"
+
 
 ## Backend languages "server side"
 
