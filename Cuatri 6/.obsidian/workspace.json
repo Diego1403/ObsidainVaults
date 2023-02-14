@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6317fd18ebceedec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 200
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/presentacion.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md"
               }
             }
           }
@@ -243,17 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "607e09efd03a4706",
+  "active": "6317fd18ebceedec",
   "lastOpenFiles": [
-    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+    "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
+    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Frecuencial.md",
     "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
-    "Asignaturas/PIV/Practicas/Practica 1.md",
-    "Asignaturas/Multiagentes/Teoria/Agentes.md"
+    "Asignaturas/PIV/Practicas/Practica 1.md"
   ]
 }
