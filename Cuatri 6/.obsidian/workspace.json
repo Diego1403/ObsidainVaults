@@ -8,127 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aff9fdafce415904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Multiagentes/Teoria/presentacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "923481e508856db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c9b8f984c9caca7e",
+            "id": "008ba5d1922f8944",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/aplicacion nativa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9eaa5a6b5fa1cab2",
+            "id": "44b1f892ae556b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "76a8a1b91a60b2a2",
+            "id": "8a9b77fe9bf6d801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "034018033f20cfde",
+            "id": "24fce98ab0fe9677",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Multiagentes/Practicas/practica 1/notas.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Para que plaforma desarollar.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "24262b345bb3d8de",
+            "id": "a7732d2eb8f86a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a164cd4f126d71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Frecuencial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "607e09efd03a4706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6317fd18ebceedec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
+                "file": "Asignaturas/Desarollo Moviles/Ejercicios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
+                "file": "Asignaturas/Desarollo Moviles/Ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
+                "file": "Asignaturas/Desarollo Moviles/Ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md"
+                "file": "Asignaturas/Desarollo Moviles/Ejercicios.md"
               }
             }
           }
@@ -255,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6317fd18ebceedec",
+  "active": "a7732d2eb8f86a82",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Para que plaforma desarollar.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones web.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/aplicacion nativa.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
+    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
     "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
-    "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
-    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Dominio Frecuencial.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/Filtrado espacial de alisamiento.md",
-    "Asignaturas/PIV/Practicas/Practica 1.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
   ]
 }
