@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7732d2eb8f86a82",
+  "active": "4c6eedecd7c813bb",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
@@ -156,7 +157,6 @@
     "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
     "Asignaturas/Desarollo Moviles/Ejercicios.md",
     "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Para que plaforma desarollar.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones web.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md"
   ]
 }
