@@ -99,3 +99,6 @@ The parameters are on the content
 
 
 The client side must me standerized 
+
+
+![[Pasted image 20230214104811.png]]

@@ -14,3 +14,15 @@ The elements can be nested
 
 When we change the dom with use jave script
 
+
+
+### html5 
+-  more semantics (nav , video , time , progress)
+- new API 
+	drag and drop 
+	offline 
+	presistent local storage 
+	websockets 
+	webworkers <- "PWA" , example visual studio code 
+		PWA works like a middleware , because it already download most of the data  . so like a push notificacion 
+
