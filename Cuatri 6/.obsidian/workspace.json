@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Practicas/Practica 2.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebd7df6f49348cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Practicas/Practica 2.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Practicas/Practica 2.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Practicas/Practica 2.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md"
               }
             }
           }
@@ -171,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8eacbaa7e2484d8",
+  "active": "ebd7df6f49348cc1",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
+    "Asignaturas/Desarollo Web/Untitled.canvas",
+    "Asignaturas/PIV/Practicas/Practica 2.md",
     "Asignaturas/PIV/Practicas/Practica 1.md",
     "Asignaturas/Multiagentes/Untitled.md",
     "Asignaturas/Multiagentes/Diagramas de protocolo.md",
     "Asignaturas/Multiagentes/Teoria/JADE.md",
     "Asignaturas/Multiagentes/Teoria/presentacion.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/notas.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
-    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md"
+    "Asignaturas/Multiagentes/Practicas/practica 1/notas.md"
   ]
 }

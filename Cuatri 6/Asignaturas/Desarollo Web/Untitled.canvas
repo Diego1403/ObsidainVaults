@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f97187b72bbcaa47","x":-299,"y":-238,"width":250,"height":308,"type":"text","text":"Teacher\n----------\nbool available \n"},
+		{"id":"e5bdf7df381d4513","x":170,"y":-238,"width":250,"height":308,"type":"text","text":"Subject\n------\n"}
+	],
+	"edges":[
+		{"id":"6602f447a09ec712","fromNode":"f97187b72bbcaa47","fromSide":"right","toNode":"e5bdf7df381d4513","toSide":"left"}
+	]
+}
