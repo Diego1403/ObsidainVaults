@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md"
+                "file": "Asignaturas/Multiagentes/Untitled.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "3a7aac3c99f444d6",
   "lastOpenFiles": [
-    "Asignaturas/PIV/Practicas/Practica 1.md",
     "Asignaturas/Multiagentes/Diagramas de protocolo.md",
+    "Asignaturas/Multiagentes/Teoria/JADE.md",
+    "Asignaturas/Multiagentes/Teoria/presentacion.md",
+    "Asignaturas/Multiagentes/Practicas/practica 1/notas.md",
+    "Asignaturas/Multiagentes/Practicas/practica 1/comuncacion de agentes.md",
+    "Asignaturas/PIV/Teoria/Extraccion de caracteristicas/La frontera como caracteristica.md",
+    "Asignaturas/PIV/Practicas/Practica 1.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/CSS.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/web sockets.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Untitled.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
-    "Asignaturas/Desarollo Moviles/Ejercicios.md"
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/componetns/HTML.md"
   ]
 }
