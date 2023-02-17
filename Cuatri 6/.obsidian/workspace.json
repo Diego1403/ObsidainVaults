@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
+                "file": "Asignaturas/Multiagentes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md"
+                "file": "Asignaturas/Multiagentes/Untitled.md"
               }
             }
           }
@@ -185,6 +185,7 @@
   },
   "active": "ebd7df6f49348cc1",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
     "Asignaturas/Desarollo Web/Untitled.canvas",
@@ -193,7 +194,6 @@
     "Asignaturas/Multiagentes/Untitled.md",
     "Asignaturas/Multiagentes/Diagramas de protocolo.md",
     "Asignaturas/Multiagentes/Teoria/JADE.md",
-    "Asignaturas/Multiagentes/Teoria/presentacion.md",
-    "Asignaturas/Multiagentes/Practicas/practica 1/notas.md"
+    "Asignaturas/Multiagentes/Teoria/presentacion.md"
   ]
 }
