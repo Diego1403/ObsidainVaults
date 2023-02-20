@@ -81,6 +81,9 @@ It works on the DOM (Document object model) of the html page "its like the order
  - ![[Pasted image 20230206101437.png]]
 
 - Fast CGI allow multiple conections becaue it allows load balancing 
+	- It alowd to run code on the server side 
+	- 
+- 
 telnet: "program to open a socket.....and send request as a server but manualy? " 
 - Adventages 
 	- in
