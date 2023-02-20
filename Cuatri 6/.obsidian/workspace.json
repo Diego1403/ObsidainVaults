@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4421c5871dc6045f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Webbrowser.md",
+                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Webbrowser.md",
+                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Webbrowser.md"
+                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md"
               }
             }
           }
@@ -231,8 +243,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ac8e38ccdd73556",
+  "active": "4421c5871dc6045f",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Webbrowser.md",
     "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Web servers.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
     "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Micro serverices.md",
@@ -241,7 +254,6 @@
     "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Conections.md",
     "Asignaturas/Multiagentes/Untitled.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md"
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md"
   ]
 }
