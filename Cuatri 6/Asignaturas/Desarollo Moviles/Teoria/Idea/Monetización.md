@@ -1,7 +1,7 @@
 como hacer que una aplicacion instalada en un dispositivo ya nos genere dinero 
 
 ## Compras in App
--> pago unico por prestacion separadas
+-  pago unico por prestacion separadas
 ### Ventajas 
 - Adaptar  app a laws necesidadesdel usuario 
 - Genera ingresos antes de finalizar el desarollo 

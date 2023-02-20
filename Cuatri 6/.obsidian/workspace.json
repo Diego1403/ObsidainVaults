@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Resumen Dart.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md"
               }
             }
           }
@@ -245,15 +245,15 @@
   },
   "active": "4421c5871dc6045f",
   "lastOpenFiles": [
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Webbrowser.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Web servers.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/The world wide web.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Micro serverices.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/web sockets.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/http.md",
-    "Asignaturas/Desarollo Web/Teoria/Web techonlogis/Conections.md",
-    "Asignaturas/Multiagentes/Untitled.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/Jquery.md",
-    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/languages/JS.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Tema 1.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Para que plaforma desarollar.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones web.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/aplicacion nativa.md",
+    "Asignaturas/Desarollo Moviles/Resumen Dart.md"
   ]
 }
