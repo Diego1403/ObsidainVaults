@@ -101,14 +101,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "514f6d19a7c6a4f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Discontinuidad y similaridad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36f320ba38913ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 257.5
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -174,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md"
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md"
               }
             }
           }
@@ -235,8 +259,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9200269d00a88f5c",
+  "active": "36f320ba38913ea4",
   "lastOpenFiles": [
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Discontinuidad y similaridad.md",
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
     "Images/Pasted image 20230213101700.png",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Tecnologie Selection.md",
@@ -244,8 +270,6 @@
     "Tecnologies selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
-    "Asignaturas/Desarollo Web/Untitled.canvas",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que hacer con tantas variables.md"
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md"
   ]
 }
