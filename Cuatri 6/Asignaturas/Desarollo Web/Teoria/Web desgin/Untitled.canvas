@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"8788a15873f68bb6","x":-251,"y":-61,"width":250,"height":60,"type":"file","file":"Design.md"},
+		{"id":"8788a15873f68bb6","x":-251,"y":-61,"width":250,"height":60,"type":"file","file":"Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md"},
 		{"id":"8e6bbe7d8b128c95","x":-251,"y":-149,"width":250,"height":60,"type":"text","text":"requierments "},
 		{"id":"2891ec5894820f06","x":-713,"y":116,"width":250,"height":60,"type":"text","text":"Process models"},
 		{"id":"319320ed39b1c75c","x":-251,"y":32,"width":250,"height":60,"type":"text","text":"Implementation "},
@@ -10,7 +10,7 @@
 		{"id":"2e7c59fd52859acd","x":464,"y":-461,"width":250,"height":95,"type":"text","text":"The extenension of the application  , The limits \"Number of users\""},
 		{"id":"c8795a7840d255f9","x":-251,"y":118,"width":250,"height":60,"type":"text","text":"Test"},
 		{"id":"caee8fa54cf3314f","x":-251,"y":224,"width":250,"height":60,"type":"text","text":"Release"},
-		{"id":"ebefbb1feb971f8d","x":476,"y":29,"width":250,"height":60,"type":"file","file":"Tecnologie Selection.md"},
+		{"id":"ebefbb1feb971f8d","x":476,"y":29,"width":250,"height":60,"type":"file","file":"Asignaturas/Desarollo Web/Teoria/Web desgin/Tecnologie Selection.md"},
 		{"id":"2350cee84427549e","x":803,"y":-366,"width":250,"height":60,"type":"text","text":"In scrum it is usefull user stories"},
 		{"id":"1f3c5e1540c67d81","x":803,"y":-293,"width":250,"height":60,"type":"text","text":"mockups , etc"},
 		{"id":"96d53d1c33901753","x":476,"y":-147,"width":250,"height":60,"type":"text","text":"databases"},

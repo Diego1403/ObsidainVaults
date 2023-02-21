@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tecnologie Selection.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 397.5
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecnologie Selection.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologie Selection.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecnologie Selection.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md"
               }
             }
           }
@@ -223,17 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dd26f3f91af3260",
+  "active": "4c6eedecd7c813bb",
   "lastOpenFiles": [
+    "Images/Pasted image 20230213101700.png",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Tecnologie Selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
-    "Tecnologie Selection.md",
-    "Design.md",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
     "Tecnologies selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
     "Asignaturas/Desarollo Web/Untitled.canvas",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que hacer con tantas variables.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que hacer con tantas variables.md"
   ]
 }
