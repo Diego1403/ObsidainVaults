@@ -94,9 +94,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9200269d00a88f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md"
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion.md"
               }
             }
           }
@@ -223,12 +235,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6eedecd7c813bb",
+  "active": "9200269d00a88f5c",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
     "Images/Pasted image 20230213101700.png",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Tecnologie Selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/Design.md",
     "Tecnologies selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
