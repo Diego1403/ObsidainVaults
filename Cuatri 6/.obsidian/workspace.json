@@ -42,9 +42,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d93fb7dcc5c1fd49",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Untitled.canvas",
+                "viewState": {
+                  "x": 60.5,
+                  "y": -84,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "5f505e93605924b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22134d4822081bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md"
               }
             }
           }
@@ -171,17 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece86dabcbe68d8c",
+  "active": "22134d4822081bd2",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
+    "Asignaturas/Desarollo Web/Untitled.canvas",
+    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que hacer con tantas variables.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Como averiguo quien es mi usuario.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Caraceteristicas de los usuarios moviles.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Quien va usar mi app.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Nuestro target Usuarios intermedios.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Tipos de usuarios.md",
-    "Asignaturas/Desarollo Moviles/Teoria/presentacion.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Deberia haber una app para eso.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Merece la pena.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Monetización.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Idea/Como puedo ganar dinero en mi applicacion.md"
+    "Asignaturas/Desarollo Moviles/Teoria/presentacion.md"
   ]
 }

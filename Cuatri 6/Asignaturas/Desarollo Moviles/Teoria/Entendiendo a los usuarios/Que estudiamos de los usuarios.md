@@ -17,4 +17,23 @@ Estudiamos las **variables**
 - Experiencia dominio problema 
 - Hábito de lectura 
 - Posibilidad cursos formación
-	- solo va para aplicaciones corporativa
+	- solo va para aplicaciones corporativas
+#### Psicologicas
+- Objetivos 
+	- Finales (End Goals)
+		- *que pretende hacer con la aplicion *
+	- De uso(experince goals)
+		- Como siente el usuarios ciertos aspectos , como un pitito puede sentirse como un regaño . 
+		- Es muy importante 
+- Motivacion 
+	- Que no quiere entrar 
+
+
+### Fisicas
+Capacidad visual disminuida 
+Dificultad para percibir el color 
+Dificultades motrices
+
+
+
+
