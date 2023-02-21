@@ -82,9 +82,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dd26f3f91af3260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologie Selection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
+                "file": "Tecnologie Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
+                "file": "Tecnologie Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md"
+                "file": "Tecnologie Selection.md"
               }
             }
           }
@@ -211,17 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22134d4822081bd2",
+  "active": "1dd26f3f91af3260",
   "lastOpenFiles": [
+    "Tecnologies selection.md",
+    "Tecnologie Selection.md",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
     "Asignaturas/Desarollo Web/Untitled.canvas",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que hacer con tantas variables.md",
     "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Como averiguo quien es mi usuario.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Caraceteristicas de los usuarios moviles.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Quien va usar mi app.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Nuestro target Usuarios intermedios.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Tipos de usuarios.md",
-    "Asignaturas/Desarollo Moviles/Teoria/presentacion.md"
+    "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Como averiguo quien es mi usuario.md"
   ]
 }

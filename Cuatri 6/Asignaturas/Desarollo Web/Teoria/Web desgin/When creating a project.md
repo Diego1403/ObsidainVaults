@@ -1,6 +1,13 @@
 
-the process requieres a 
-### Model
-that  is choosen by the 
+the process requieres a  **Model**
+that  is choosen by the methodology
 ### Methodology 
-"example "
+"example -> agile development(scrum ,) "
+ - Also uses strategies
+
+
+
+### Tools 
+- Tecnologies -> figma , 
+- Methods -> cocomo
+
