@@ -53,8 +53,7 @@
                 "viewState": {
                   "x": 60.5,
                   "y": -84,
-                  "zoom": 0,
-                  "snapToGrid": false
+                  "zoom": 0
                 }
               }
             }
@@ -142,9 +141,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d09933ba70f068d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -271,7 +280,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3041a697ba5793be",
+  "active": "3d09933ba70f068d",
   "lastOpenFiles": [
     "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
     "Asignaturas/PIV/Teoria/presentacion.md",
