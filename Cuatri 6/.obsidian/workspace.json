@@ -180,9 +180,11 @@
             "id": "1b53ff6a7e423b0f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
