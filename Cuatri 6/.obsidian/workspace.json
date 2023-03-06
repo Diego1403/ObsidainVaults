@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e303d00be6ca6b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ece86dabcbe68d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Entendiendo a los usuarios/Que estudiamos de los usuarios.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,18 +117,6 @@
             }
           },
           {
-            "id": "bed486a17f370bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas de TechFest2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f46eb1f0114ffd48",
             "type": "leaf",
             "state": {
@@ -202,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 403.5
   },
   "right": {
     "id": "35b510df6f0c3393",
@@ -218,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md"
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md"
               }
             }
           }
@@ -279,8 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e303d00be6ca6b4",
+  "active": "ece86dabcbe68d8c",
   "lastOpenFiles": [
+    "Pasted image 20230306114719.png",
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
+    "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
+    "Asignaturas/PIV/Teoria/presentacion.md",
+    "Asignaturas/PIV/Teoria/Componentes de un sistema PDI.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Aplicacioes Moviles/Aplicaciones hibridas.md",
+    "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
+    "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
+    "Notas de TechFest2023.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design/Design.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design/Tecnologie Selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
@@ -293,12 +278,8 @@
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Implementation",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Requierments.md",
-    "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
     "Asignaturas/Desarollo Web/Teoria/Untitled",
-    "Notas de TechFest2023.md",
     "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
-    "Asignaturas/PIV/Teoria/presentacion.md",
-    "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Discontinuidad y similaridad.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",

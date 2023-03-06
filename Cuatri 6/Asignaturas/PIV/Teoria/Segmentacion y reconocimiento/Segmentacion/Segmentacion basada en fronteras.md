@@ -14,3 +14,9 @@ que satisface los criterios de magnitud
 
 
 ## Enlazado de pixeles sin informacion regional 
+
+....
+
+## Espacio transformado
+- Este m´etodo puede generalizarse a cualquier funci´on del tipo g(v, c) = 0, donde v es un vector de coordenadas, y c es un vector de coeficientes.
+- 
