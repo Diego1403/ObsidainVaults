@@ -1,9 +1,0 @@
-- Se le asigna el algoritmo a travez de un algoritmo concreto
-- El dispacher transfiere a la cpu el estado elegido por el scheduler 
-- Entonces podrá: 
-	- Acabar la ejecucion o no puede continuar por E/S 
-	- Un Elemento del sistema ordena el bloque del proceso activo
-	- El proceso agota su tiempo de estancia 
-	- Un proceso pasa a estado preparado 
-- Lo normal que haya un cambio de contexto , cuando el SO necesita interactuar con el scheduler . Como cuando acabo un cuanto de tiempo en un round robin o feedback
-- 

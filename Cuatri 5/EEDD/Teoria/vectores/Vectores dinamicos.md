@@ -1,1 +1,0 @@
-¿Cuando se reduce el tamaño en un vector dinamico? ¿cuanto se reduce?→se reduce a la **mitad** si (tamaño logico * 3) < (tamaño fisico)

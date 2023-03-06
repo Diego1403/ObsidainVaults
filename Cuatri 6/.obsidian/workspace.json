@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f13f1c311656a455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93fb7dcc5c1fd49",
             "type": "leaf",
             "state": {
@@ -128,7 +140,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,11 +247,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md"
+                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,8 +269,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ece86dabcbe68d8c",
+  "active": "f13f1c311656a455",
   "lastOpenFiles": [
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
     "Pasted image 20230306114719.png",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
@@ -280,9 +297,7 @@
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Requierments.md",
     "Asignaturas/Desarollo Web/Teoria/Untitled",
     "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
-    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Discontinuidad y similaridad.md",
-    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
     "Images/Pasted image 20230213101700.png"
   ]
 }

@@ -17,6 +17,12 @@ que satisface los criterios de magnitud
 
 ....
 
-## Espacio transformado
-- Este m´etodo puede generalizarse a cualquier funci´on del tipo g(v, c) = 0, donde v es un vector de coordenadas, y c es un vector de coeficientes.
-- 
+## Espacio transformado de Hough 
+
+- Sea un punto (xi , yi) en un plano. Por el pasan infinitas rectas del tipo y = ax + b
+### Inconvenientes del Espacio Transformado de Hough
+- Cuando una linea se aproxima a la vertical, el valor de su pendiente (a) se aproxima a infinito
+	- Una forma de evitar esto es emplear la siguiente representaci´on para una l´ınea: x cos θ + y sin θ = ρ
+- En este espacio, la familia de l´ıneas que pasan por un punto forma una curva sinusoidal.
+- Podemos subdividir el espacio **ρθ** en celdas acumuladoras 
+- Busca lineas no cosas cerradas
