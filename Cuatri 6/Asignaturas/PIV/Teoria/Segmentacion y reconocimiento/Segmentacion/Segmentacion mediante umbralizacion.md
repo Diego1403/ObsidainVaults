@@ -16,4 +16,18 @@ El problema es que es que es iterativo y que puede tardar bastante o quedarse at
 - Se basa en minimizar el error medio cometido al segmentar. 
 - Usa la regla de Bayes, suponiendo funciones de densidad de probabilidad gaussianas.
 - El algoritmo permite evaluar tambien la **separabilidad** de las modas del histograma
-- Este algoritmo calcula el umbral k de forma directa, por lo que es mas rapido que el metodo b´asico, que es iterativo.
+- Este algoritmo calcula el umbral k de forma directa, por lo que es mas rapido que el metodo basico, que es iterativo.
+
+## Uso del suavizado para mejorar la umbralizacion
+
+El suavizado puede ayudar a evitar el problema del ruido .
+Lo que hace es utilizando el entorno de vecindad de cada punto , encontrar y usar el promedio.
+
+----------
+Cuando hay objetos con tamaños muy dispares , las areas mayores dominan el histograma . que hace dificil el calculo del umbral . El  Metodo de otsu soluciona este problema y arrgla los puntos extremos 
+
+---
+## Umbralizacion variable 
+- Permite calcular distintos umbrales para una misma imagen 
+
+
