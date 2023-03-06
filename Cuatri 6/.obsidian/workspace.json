@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7316e1df0f9552b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93fb7dcc5c1fd49",
             "type": "leaf",
             "state": {
@@ -141,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
+                "file": "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
+                "file": "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md"
+                "file": "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md"
               }
             }
           }
@@ -269,11 +281,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f13f1c311656a455",
+  "active": "7316e1df0f9552b7",
   "lastOpenFiles": [
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
+    "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
-    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
     "Pasted image 20230306114719.png",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
