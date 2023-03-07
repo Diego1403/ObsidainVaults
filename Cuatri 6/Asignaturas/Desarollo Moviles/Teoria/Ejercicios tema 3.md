@@ -37,8 +37,20 @@ Indica si son adecuadas o no y el tipo de información que se puede obtener con 
 10) El estudio de la variable: antigüedad en el uso de una determinada plataforma móvil (Android o iOS) es fundamental para clasificar a los usuarios como noveles, intermedios perpetuos o expertos. ¿Es correcta esa afirmación? Justifica tu respuesta.
  - Es falso es cuantas horas al dia se dedica en una aplicacion 
  
-1) En una aplicación móvil, un usuario debe iniciar sesión (introducir credenciales de acceso) para poder trabajar. La persona principal de esa aplicación sufre interrupciones frecuentes mientras realiza tareas con la aplicación. ¿Cómo diseñarías la interacción para facilitar lo más posible a esa persona que pueda retomar fácilmente su tarea?
+11) En una aplicación móvil, un usuario debe iniciar sesión (introducir credenciales de acceso) para poder trabajar. La persona principal de esa aplicación sufre interrupciones frecuentes mientras realiza tareas con la aplicación. ¿Cómo diseñarías la interacción para facilitar lo más posible a esa persona que pueda retomar fácilmente su tarea?
 -   Iniciar sesion con datos biometricos 
 -  Usar modos de identifiacion mas faciles 
 - Matener la sesion abierta durante un tiempo corto siempre y cuando sea posible 
-- 
+
+13) Las personas deben ser lo más reales posible. ¿Sería correcto tomar como base a uno de los usuarios reales observados y/o encuestados y “transformarlo'" en una persona? Explica con detalle por qué
+	- Mejor que cojer a uno de verdad es cojer un grupo de muestra y a partir de ellas hacer un usuario ficticio 
+14) En el ejemplo de persona que acompaña a este capítulo, se dan detalles sobre la persona que incluyen la marca y modelo de los dispositivos que utiliza. ¿Cuál crees que puede ser la razón? ¿Ese conocimiento aporta alguna información útil? Justifica la respuesta.
+-  Si sabemos el modelos , podemos crear e intergrar todos  el entorno como relojes inteligentes . 
+
+15) ¿Crees que las personas son una herramienta de diseño mejor que las categorías de usuarios? ¿Por qué?
+	-  Si .Una persona fictia que hemos construido nosotros , que representa la categoria de usuarios que queremos , tiene beneficios :
+		- Facilita mucho la comunicacion entre desarolladores 
+		- Facilita la empatia
+		- miniza los tiempos de desarrollo  , coordinacion ,etc 
+
+
