@@ -104,5 +104,24 @@ must have **experience** in its use
 3) Laguages : with 
 	1) Xml :lang "modern html"
 	2) land : "old html "
+4) Presentation vs content : using stylesheets 
+5) Images , animations and examples . Check for translatability  and inappropriate cultural bias . "maye other cultures do it a bit diffrent"
+6) Form : names , adresses and dates can vary with where you use them 
+7) Text authoring . Using the followinf in php we can reverse the position when needed
+````dart
+	dart Page %1$d of %2$d.
+	````
+8) Localisation 
+	- using location to change location 
+------
+SUMMARY
+
+follow a clear methodology
+Write documentation 
+Graphic design is VERY IMPORTANT 
+Think on final user:
+- Usability 
+- Responsiveness
+- Multilinguality 
 
 
