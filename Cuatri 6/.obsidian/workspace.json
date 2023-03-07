@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "7c870aa7eb9ecc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0355ddf3ea71b99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93fb7dcc5c1fd49",
             "type": "leaf",
             "state": {
@@ -213,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -279,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md",
+                "file": "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md",
+                "file": "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md"
+                "file": "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md"
               }
             }
           }
@@ -341,14 +365,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccdddcac8ade15c9",
+  "active": "0355ddf3ea71b99a",
   "lastOpenFiles": [
-    "Pasted image 20230307110307.png",
-    "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/Design patterns.md",
+    "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
+    "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md",
+    "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/Design patterns.md",
+    "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
+    "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
+    "Pasted image 20230307110307.png",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design/Design.md",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/When creating a project.md",
     "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion/Patrones/Barra de navegacion.md",
     "Pasted image 20230307102757.png",
@@ -378,9 +405,7 @@
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Test",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Implementation",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Design",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/Requierments.md",
     "Asignaturas/Desarollo Web/Teoria/Untitled",
-    "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
     "Images/Pasted image 20230213101700.png"
   ]
 }

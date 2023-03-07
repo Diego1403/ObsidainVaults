@@ -26,3 +26,11 @@ We use the dojo tool kit that
 ----------
 In any aplication we have 3 componentes 
 Interface -> Logicas -> data
+
+
+
+
+
+
+
+note : we can store local data on  the front end and on the back end 
