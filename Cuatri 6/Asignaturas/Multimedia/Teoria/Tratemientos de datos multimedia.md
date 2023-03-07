@@ -15,4 +15,12 @@
 - El sonido es una forma de energia que se transmite en un medio fisico 
 - Una señal de audio se representa mediante una o mas formas de onda (waveforms )
 - La digitalizacion del audio analogio se realiza mediante PCM (pulse code modulation)
-- 
+
+
+La cuatizacion lo que hace es convertir los valores analogicos a discretos . Siempre ocurre una perdida de informacion
+
+Bit rate  = numero de bits por muestra
+
+
+### Dominios de señales
+- Las señales 
