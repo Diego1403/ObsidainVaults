@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
                 "mode": "source",
                 "source": false
               }
@@ -303,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md"
               }
             }
           }
@@ -367,6 +367,7 @@
   },
   "active": "0355ddf3ea71b99a",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md",
     "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
@@ -375,7 +376,6 @@
     "Images/Pasted image 20230307110307.png",
     "Images/Pasted image 20230221135319.png",
     "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
-    "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/Design patterns.md",
     "Asignaturas/Desarollo Web/Teoria/World wide web/Frontend/front end.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Process models.md",

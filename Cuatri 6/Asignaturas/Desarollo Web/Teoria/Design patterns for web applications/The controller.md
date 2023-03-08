@@ -9,6 +9,7 @@ Web aplications : Handles Http requests (URL,POST.GET...)
 class Pages extends BaseController {
 	public function getView($page = "home"){
 		echo view("-----");
+		
 	}
 
 }
