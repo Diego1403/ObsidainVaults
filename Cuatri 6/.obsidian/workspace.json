@@ -128,6 +128,30 @@
             }
           },
           {
+            "id": "997d5a10bff6e348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8f48c2db454628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client/meeting 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d93fb7dcc5c1fd49",
             "type": "leaf",
             "state": {
@@ -237,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -303,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
+                "file": "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client/meeting 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +344,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
+                "file": "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client/meeting 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +367,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md"
+                "file": "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client/meeting 1.md"
               }
             }
           }
@@ -365,8 +389,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0355ddf3ea71b99a",
+  "active": "ba8f48c2db454628",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Untitled.md",
+    "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client/meeting 1.md",
+    "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Client",
+    "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
+    "Asignaturas/Desarollo Web/Practicas/Scrum meetings",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The controller.md",
     "Asignaturas/Desarollo Web/Teoria/Design patterns for web applications/The MVC Pattern.md",
     "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
@@ -398,9 +427,7 @@
     "Asignaturas/Desarollo Moviles/Practicas/practica 1.md",
     "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
     "Notas de TechFest2023.md",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/Design/Tecnologie Selection.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
-    "Asignaturas/Desarollo Web/Teoria/Web desgin/web application.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Releaase",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Test",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Implementation",
