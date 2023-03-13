@@ -15,3 +15,8 @@ class Pages extends BaseController {
 }
 ```
 https://webapp.localhost/pages/getView/argument1
+
+
+They are not all on the back end .
+
+
