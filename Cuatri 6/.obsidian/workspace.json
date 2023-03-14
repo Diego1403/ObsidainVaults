@@ -283,9 +283,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "220c96ae31e0454a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -351,6 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,6 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +402,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md"
+              }
             }
           }
         ],
@@ -409,8 +425,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6eedecd7c813bb",
+  "active": "220c96ae31e0454a",
   "lastOpenFiles": [
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/architecture.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Disadvantages of MVC.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Thew View.md",
@@ -431,7 +449,6 @@
     "Asignaturas/Multimedia/Teoria/Tratemientos de datos multimedia.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
-    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
     "Images/Pasted image 20230307110307.png",
     "Images/Pasted image 20230221135319.png",
     "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
@@ -450,7 +467,6 @@
     "Images/Pasted image 20230306114719.png",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
-    "Asignaturas/PIV/Teoria/presentacion.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Releaase",
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Test",
