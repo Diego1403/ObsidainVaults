@@ -290,7 +290,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
                 "mode": "source",
                 "source": false
               }
@@ -363,7 +363,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +380,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Untitled.md"
+                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md"
               }
             }
           }
@@ -425,10 +425,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "220c96ae31e0454a",
+  "active": "4c6eedecd7c813bb",
   "lastOpenFiles": [
+    "Asignaturas/Desarollo Moviles/Teoria/codigo.dart",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
-    "Asignaturas/Desarollo Moviles/Teoria/Untitled.md",
+    "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/architecture.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Disadvantages of MVC.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Thew View.md",
@@ -466,7 +467,6 @@
     "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion",
     "Images/Pasted image 20230306114719.png",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
-    "Asignaturas/PIV/Teoria/Proceseamiento de informacion  visual.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Releaase",
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Test",
