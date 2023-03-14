@@ -290,14 +290,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0d2051d7a9d7612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -363,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +392,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
+                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -403,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Codigo.md"
+                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md"
               }
             }
           }
@@ -425,11 +437,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6eedecd7c813bb",
+  "active": "d0d2051d7a9d7612",
   "lastOpenFiles": [
-    "Asignaturas/Desarollo Moviles/Teoria/codigo.dart",
-    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
+    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
+    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The MVC Pattern.md",
     "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
+    "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+    "Asignaturas/Desarollo Moviles/Teoria/codigo.dart",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/architecture.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Disadvantages of MVC.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Thew View.md",
@@ -437,8 +452,6 @@
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The model.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The VIew",
     "Pasted image 20230313095926.png",
-    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
-    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The MVC Pattern.md",
     "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Untitled.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Design patterns.md",
     "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
@@ -469,7 +482,6 @@
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Segmentacion basada en fronteras.md",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Releaase",
-    "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Test",
     "Images/Pasted image 20230213101700.png"
   ]
 }
