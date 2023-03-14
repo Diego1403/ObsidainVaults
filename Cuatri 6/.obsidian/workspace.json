@@ -4,312 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0ac51af2dc4fb94a",
+        "id": "462361378168d462",
         "type": "tabs",
         "children": [
           {
-            "id": "ece86dabcbe68d8c",
+            "id": "edc3580d001ebc6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
+                "file": "Asignaturas/PIV/Teoria/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f13f1c311656a455",
+            "id": "122bbb76b909cbe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion mediante umbralizacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7316e1df0f9552b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Multimedia/Teoria/Que es la multmedia y los datos mutimedia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c2df34d04d0d559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Ejercicios tema 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e85e7586abbf54b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion/Patrones de interacción.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47f9ca6a78ea81a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Design/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6d37c8a01793696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The MVC Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccdddcac8ade15c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The MVC Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c870aa7eb9ecc7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0355ddf3ea71b99a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/Presentacion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "997d5a10bff6e348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d1fd0a73ed8725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a8b7d3a8eab964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Thew View.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5cd1440809e78a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d93fb7dcc5c1fd49",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Untitled.canvas",
-                "viewState": {
-                  "x": 60.5,
-                  "y": -84,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "22134d4822081bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/3-Web desgin/When creating a project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd26f3f91af3260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Design/Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9200269d00a88f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion de imagenes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "514f6d19a7c6a4f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Paradigmas de segmentacion/Discontinuidad y similaridad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f320ba38913ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3041a697ba5793be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Practicas/mytutor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d09933ba70f068d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "f46eb1f0114ffd48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Moviles/Practicas/practica 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "220c96ae31e0454a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d2051d7a9d7612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
+                "file": "Asignaturas/Multimedia/Teoria/Compresion de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -375,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
+                "file": "Asignaturas/Multimedia/Teoria/Compresion de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -392,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
+                "file": "Asignaturas/Multimedia/Teoria/Compresion de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -415,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md"
+                "file": "Asignaturas/Multimedia/Teoria/Compresion de datos.md"
               }
             }
           }
@@ -437,12 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0d2051d7a9d7612",
+  "active": "122bbb76b909cbe7",
   "lastOpenFiles": [
-    "Pasted image 20230314111318.png",
-    "Pasted image 20230314111208.png",
-    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
+    "Images/Pasted image 20230314111318.png",
+    "Asignaturas/Multimedia/Teoria/Compresion de datos.md",
+    "Asignaturas/PIV/Teoria/Untitled.md",
+    "Asignaturas/Untitled",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Beyond the MVC pattern.md",
+    "Images/Pasted image 20230314111208.png",
+    "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The controller.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The MVC Pattern.md",
     "Asignaturas/Desarollo Moviles/Teoria/Codigo.md",
     "Asignaturas/PIV/Teoria/Segmentacion y reconocimiento/Segmentacion/Segmentacion basada en fronteras.md",
@@ -453,7 +179,7 @@
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Arquitecture",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The model.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/The VIew",
-    "Pasted image 20230313095926.png",
+    "Images/Pasted image 20230313095926.png",
     "Asignaturas/Desarollo Web/Practicas/Scrum meetings/Untitled.md",
     "Asignaturas/Desarollo Web/Teoria/4-Design Patterns/Design patterns.md",
     "Asignaturas/Desarollo Web/Practicas/Que instalar.md",
@@ -475,14 +201,11 @@
     "Asignaturas/Desarollo Web/Teoria/3-Web desgin/When creating a project.md",
     "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion/Patrones/Barra de navegacion.md",
     "Images/Pasted image 20230307102757.png",
-    "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion/Patrones de interacción.md",
     "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion/Patrones",
     "Images/Pasted image 20230307102345.png",
-    "Asignaturas/Desarollo Moviles/Teoria/Ejercicios tema 3.md",
     "Asignaturas/Desarollo Moviles/Teoria/Patrones de interaccion",
     "Images/Pasted image 20230306114719.png",
     "Asignaturas/Desarollo Web/Teoria/Web desgin/Untitled.canvas",
-    "Asignaturas/Desarollo Web/Teoria/3-Web desgin/Releaase",
     "Images/Pasted image 20230213101700.png"
   ]
 }
